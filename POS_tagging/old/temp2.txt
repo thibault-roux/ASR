@@ -1,0 +1,31 @@
+%WER 64.81 [ 57773 / 89141, 15081 ins, 3776 del, 38916 sub ]
+%SER 93.62 [ 9449 / 10093 ]
+Scored 10093 sentences, 0 not present in hyp.
+================================================================================
+ALIGNMENTS
+
+Format:
+<utterance-id>, WER DETAILS
+<eps> ; reference  ; on ; the ; first ;  line
+  I   ;     S      ; =  ;  =  ;   S   ;   D  
+ and  ; hypothesis ; on ; the ; third ; <eps>
+================================================================================
+common_voice_fr_17962624, %WER 100.00 [ 3 / 3, 0 ins, 0 del, 3 sub ]
+QUE ; D  ; EAU 
+ S  ; S  ;  S  
+ TU ; ES ; DOUX
+================================================================================
+common_voice_fr_17312909, %WER 100.00 [ 3 / 3, 0 ins, 1 del, 2 sub ]
+ C  ;     EST     ; TERMINÉ
+ S  ;      S      ;    D   
+LES ; TERRITOIRES ;  <eps> 
+================================================================================
+common_voice_fr_17768158, %WER 60.00 [ 3 / 5, 0 ins, 1 del, 2 sub ]
+VOUS ; ÊTES ;   D   ;      ACCORD     ; MAINTENANT
+ =   ;  =   ;   S   ;        S        ;     D     
+VOUS ; ÊTES ; AIMÉS ; CORRESPONDANCES ;   <eps>   
+=======
+c, %WER 10.00 qdzqdq dq q d
+J  ;  AI  ; <eps> ; SOIF 
+=  ;  S   ;   I   ;  =   
+J  ;  ET  ;   ET  ; SOIF  
