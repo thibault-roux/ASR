@@ -8,7 +8,7 @@ from nltk.tokenize import RegexpTokenizer
 from keras import Input
 from keras.layers import Bidirectional, LSTM, Dropout, RepeatVector, Concatenate, Dense, Activation, Dot, GRU
 from keras.models import Model
-from keras.optimizers import Adam
+from tensorflow.keras.optimizers import Adam
 from sklearn.model_selection import train_test_split
 
 
