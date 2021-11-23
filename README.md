@@ -6,3 +6,7 @@ Error prediction : https://www.overleaf.com/project/6189102b4595613ad200da19
 POS analysis : https://www.overleaf.com/project/618a42e0c0136d6d684bd3da  
 Meetings : https://www.overleaf.com/project/618b9ad10437e367406bebd6  
 Length of words : https://www.overleaf.com/8546434871dwwnnstvptdh
+
+
+# PoemeProfond
+A part of this code is directly from PoemeProfond which can be found at https://github.com/Remiphilius/PoemesProfonds
