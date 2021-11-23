@@ -2,10 +2,12 @@
 ## Author : Thibault Roux
 
 Compte Rendu : https://www.overleaf.com/read/wyphbqdmqmmm  
+  
 Error prediction : https://www.overleaf.com/read/ncxsqqxftqbf  
 POS analysis : https://www.overleaf.com/read/ycwzvryfqxft  
 Meetings : https://www.overleaf.com/read/sgcffskxcscw  
-Length of words : https://www.overleaf.com/read/ttpdkwgbpymp
+Length of words : https://www.overleaf.com/read/ttpdkwgbpymp  
+Bibliography : https://www.overleaf.com/read/phhbhzmtxktw  
 
 
 ## PoemeProfond
