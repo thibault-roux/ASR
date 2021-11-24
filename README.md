@@ -1,7 +1,8 @@
 # ASR experiences on errors
 ## Author : Thibault Roux
 
-Compte Rendu : https://www.overleaf.com/read/wyphbqdmqmmm  
+Réunions et compte rendu : https://www.overleaf.com/read/sgcffskxcscw
+Todo et pistes : https://www.overleaf.com/read/wyphbqdmqmmm  
   
 Error prediction : https://www.overleaf.com/read/ncxsqqxftqbf  
 POS analysis : https://www.overleaf.com/read/ycwzvryfqxft  
