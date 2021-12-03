@@ -17,23 +17,30 @@ print()
 print(lecteur.lire_vers("Les trains arrivent en gare de Jarlitude, voies 14 et 97."))
 print()
 
+ref = []
+with open("../../data/fra6.txt", "r", encoding="utf8") as file:
+    for ligne in file:
+        ref.append(ligne.split("\t")[0])
+
 txt = ""
 i = 0
 bar = progressbar.ProgressBar(max_value=15659)
-with open("../../data/fra8.txt", "r", encoding="utf8") as file:
+with open("../../data/fra8_temp.txt", "r", encoding="utf8") as file:
     for ligne in file:
         #print(i)
-        i += 1
+        #i += 1
         ligne = ligne.split("\t")
-        ligne0 = ligne[0].split(" ")
+        #ligne0 = ligne[0].split(" ")
         ligne1 = ligne[1].split(" ")
 
+        """
         ref = ""
         for j in range(len(ligne0)):
             if ligne0[j] != "<eps>":
                 ref += ligne0[j] + " "
                 #lecteur.lire_vers(ligne0[j]) + " "
         ref = ref[:-1]
+        """
 
         hyp = ""
         for j in range(len(ligne1)):
@@ -41,8 +48,10 @@ with open("../../data/fra8.txt", "r", encoding="utf8") as file:
                 hyp += ligne1[j] + " "
         hyp = hyp[:-1]
 
-        txt += lecteur.lire_vers(ref) + "\t" + lecteur.lire_vers(hyp) + "\t_\n"
+        #txt += lecteur.lire_vers(ref) + "\t" + lecteur.lire_vers(hyp) + "\t_\n"
+        txt += ref[i] + "\t" + lecteur.lire_vers(hyp) + "\t_\n"
         bar.update(i)
+        i += 1
 
 with open("../../data/fra13.txt", "w", encoding="utf8") as f:
     f.write(txt)
