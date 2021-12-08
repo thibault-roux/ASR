@@ -1,0 +1,1984 @@
+common_voice_fr_17962624, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+QUE ; D ; EAU
+ =  ; = ;  = 
+QUE ; D ; EAU
+================================================================================
+common_voice_fr_17726336, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+JE ; NE ; ROUGIS ; PAS
+=  ; =  ;   S    ;  = 
+JE ; NE ; ROUGE  ; PAS
+================================================================================
+common_voice_fr_17383777, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+IL ; BOIT ; DE ; L ; EAU
+=  ;  =   ; =  ; = ;  = 
+IL ; BOIT ; DE ; L ; EAU
+================================================================================
+common_voice_fr_17402757, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+C ; EST ; SALE
+= ;  =  ;  =  
+C ; EST ; SALE
+================================================================================
+common_voice_fr_18015283, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+NE ; L ; ÉTANT ; PAS
+=  ; = ;   =   ;  = 
+NE ; L ; ÉTANT ; PAS
+================================================================================
+common_voice_fr_17383774, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+NOS ; TROIS ; FEUILLES
+ =  ;   =   ;    =    
+NOS ; TROIS ; FEUILLES
+================================================================================
+common_voice_fr_17337963, %WER 66.67 [ 2 / 3, 0 ins, 1 del, 1 sub ]
+IL ;     A     ; RAISON
+=  ;     S     ;   D   
+IL ; HARISSANT ; <eps> 
+================================================================================
+common_voice_fr_17379270, %WER 50.00 [ 2 / 4, 0 ins, 0 del, 2 sub ]
+LE ;   TEMPS   ; SERA ; CHAUD
+=  ;     S     ;  S   ;   =  
+LE ; TRANSFERT ;  À   ; CHAUD
+================================================================================
+common_voice_fr_17393473, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+LA ; MAISON ; EST ; GRANDE
+=  ;   =    ;  =  ;   =   
+LA ; MAISON ; EST ; GRANDE
+================================================================================
+common_voice_fr_17383775, %WER 50.00 [ 2 / 4, 0 ins, 1 del, 1 sub ]
+NEUF ; HEURES ;   ET   ; QUART
+ =   ;   =    ;   S    ;   D  
+NEUF ; HEURES ; ÉCARTS ; <eps>
+================================================================================
+common_voice_fr_17458709, %WER 100.00 [ 3 / 3, 0 ins, 1 del, 2 sub ]
+  TOUT  ;   EN  ; FINESSE
+   S    ;   S   ;    D   
+CHARLES ; FÉNIS ;  <eps> 
+================================================================================
+common_voice_fr_17458710, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+NE ; PLEURE ; PAS
+=  ;   =    ;  = 
+NE ; PLEURE ; PAS
+================================================================================
+common_voice_fr_18015284, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+C ; EST ; BON ; DE ; MANGER ; DU ; LAIT
+= ;  =  ;  =  ; =  ;   =    ; =  ;  =  
+C ; EST ; BON ; DE ; MANGER ; DU ; LAIT
+================================================================================
+common_voice_fr_17492093, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+DANS ; TA ; CHAMBRE
+ =   ; =  ;    =   
+DANS ; TA ; CHAMBRE
+================================================================================
+common_voice_fr_17722341, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+C ; EST ; JOLI
+= ;  =  ;  =  
+C ; EST ; JOLI
+================================================================================
+common_voice_fr_17767229, %WER 100.00 [ 4 / 4, 0 ins, 0 del, 4 sub ]
+HI ;  HI ; HI ;  HI
+S  ;  S  ; S  ;  S 
+IL ; FIT ; QU ; ICI
+================================================================================
+common_voice_fr_17882591, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+QUI ; T ; ACCOMPAGNE
+ =  ; = ;     =     
+QUI ; T ; ACCOMPAGNE
+================================================================================
+common_voice_fr_17513416, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; VOTRE ; OPINION
+= ;  =  ;   =   ;    =   
+C ; EST ; VOTRE ; OPINION
+================================================================================
+common_voice_fr_17394330, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+IL ; N ; Y ; A ; PAS ; BEAUCOUP ; DE ; MONDE
+=  ; = ; = ; = ;  =  ;    =     ; =  ;   =  
+IL ; N ; Y ; A ; PAS ; BEAUCOUP ; DE ; MONDE
+================================================================================
+common_voice_fr_18038811, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+COMMENT ; VA ; VOTRE ; SŒUR
+   =    ; =  ;   =   ;  =  
+COMMENT ; VA ; VOTRE ; SŒUR
+================================================================================
+common_voice_fr_17832749, %WER 16.67 [ 1 / 6, 0 ins, 1 del, 0 sub ]
+IL ; FAUT ; QUE ; J ;   Y   ; ARRIVE
+=  ;  =   ;  =  ; = ;   D   ;   =   
+IL ; FAUT ; QUE ; J ; <eps> ; ARRIVE
+================================================================================
+common_voice_fr_17324806, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+CE ; SERAIT ; TROP ; LENT
+=  ;   =    ;  =   ;  =  
+CE ; SERAIT ; TROP ; LENT
+================================================================================
+common_voice_fr_17337965, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+POURQUOI ; N ; Y ; ALLEZ ; VOUS ; PAS
+   =     ; = ; = ;   =   ;  =   ;  = 
+POURQUOI ; N ; Y ; ALLEZ ; VOUS ; PAS
+================================================================================
+common_voice_fr_17384736, %WER 33.33 [ 1 / 3, 0 ins, 0 del, 1 sub ]
+VAS ; T ; EN
+ S  ; = ; = 
+ VA ; T ; EN
+================================================================================
+common_voice_fr_17513415, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+VINGT ; ET ; UN ; LIVRES ; NOIRS
+  =   ; =  ; =  ;   =    ;   =  
+VINGT ; ET ; UN ; LIVRES ; NOIRS
+================================================================================
+common_voice_fr_17507536, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; COMME ; ÇA
+= ;  =  ;   =   ; = 
+C ; EST ; COMME ; ÇA
+================================================================================
+common_voice_fr_18829804, %WER 75.00 [ 3 / 4, 0 ins, 1 del, 2 sub ]
+NE ;     M     ; ATTAQUEZ ;  PAS 
+=  ;     S     ;    S     ;   D  
+NE ; METTAQUEZ ;   PART   ; <eps>
+================================================================================
+common_voice_fr_17383760, %WER 66.67 [ 2 / 3, 0 ins, 1 del, 1 sub ]
+VOUS ;  ÊTES ; PRÊT
+ S   ;   D   ;  =  
+VEUT ; <eps> ; PRÊT
+================================================================================
+common_voice_fr_17526229, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; LA ; RÉALITÉ
+= ;  =  ; =  ;    =   
+C ; EST ; LA ; RÉALITÉ
+================================================================================
+common_voice_fr_17402756, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+ELLE ; EST ; BIEN
+ =   ;  =  ;  =  
+ELLE ; EST ; BIEN
+================================================================================
+common_voice_fr_17386919, %WER 50.00 [ 2 / 4, 0 ins, 0 del, 2 sub ]
+ELLES ; VONT ; TRÈS ; BIEN
+  S   ;  S   ;  =   ;  =  
+ ELLE ; VEND ; TRÈS ; BIEN
+================================================================================
+common_voice_fr_17386920, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+OÙ ; SUIS ; JE
+=  ;  =   ; = 
+OÙ ; SUIS ; JE
+================================================================================
+common_voice_fr_17767196, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+LE ; PLUS ; QU ; IL ; PEUT
+=  ;  =   ; =  ; =  ;  =  
+LE ; PLUS ; QU ; IL ; PEUT
+================================================================================
+common_voice_fr_17938465, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+ÇA ; M ; EST ; ÉGAL
+=  ; = ;  =  ;  =  
+ÇA ; M ; EST ; ÉGAL
+================================================================================
+common_voice_fr_18829907, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; COMBIEN ; ÇA
+= ;  =  ;    =    ; = 
+C ; EST ; COMBIEN ; ÇA
+================================================================================
+common_voice_fr_17789723, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+L ; OISEAU ; QUI ; NE ; CHANTE ; PLUS
+= ;   =    ;  =  ; =  ;   =    ;  =  
+L ; OISEAU ; QUI ; NE ; CHANTE ; PLUS
+================================================================================
+common_voice_fr_17383776, %WER 33.33 [ 2 / 6, 0 ins, 0 del, 2 sub ]
+UNE ; TRENTAINE ; DE ; KILOS  ; DE ; BANANES
+ =  ;     =     ; =  ;   S    ; =  ;    S   
+UNE ; TRENTAINE ; DE ; PHILOS ; DE ;  BANANE
+================================================================================
+common_voice_fr_17317920, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+SURTOUT ; PARMI ; VOS ; AMIS
+   =    ;   =   ;  S  ;  =  
+SURTOUT ; PARMI ; AUX ; AMIS
+================================================================================
+common_voice_fr_17863422, %WER 100.00 [ 4 / 4, 0 ins, 0 del, 4 sub ]
+QUEL ; ÂGE ; ONT ;  ILS  
+ S   ;  S  ;  S  ;   S   
+ QU  ;  IL ;  A  ; GENTIL
+================================================================================
+common_voice_fr_17766604, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+MA ; FILLE ; N ; EST ; PAS ; ICI
+=  ;   =   ; = ;  =  ;  =  ;  = 
+MA ; FILLE ; N ; EST ; PAS ; ICI
+================================================================================
+common_voice_fr_17301960, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; UNE ; ÉVIDENCE
+= ;  =  ;  =  ;    =    
+C ; EST ; UNE ; ÉVIDENCE
+================================================================================
+common_voice_fr_18468829, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+LA ; DIX ; HUITIÈME
+=  ;  =  ;    =    
+LA ; DIX ; HUITIÈME
+================================================================================
+common_voice_fr_17443459, %WER 14.29 [ 1 / 7, 0 ins, 0 del, 1 sub ]
+À ; QUELLE ; HEURE ; VOUS ; ÊTES ; VOUS ; LEVÉ
+= ;   S    ;   =   ;  =   ;  =   ;  =   ;  =  
+À ;   QU   ; HEURE ; VOUS ; ÊTES ; VOUS ; LEVÉ
+================================================================================
+common_voice_fr_17789724, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+J ;  ACCEPTAI ; TOUT ; DE ; SUITE
+= ;     S     ;  =   ; =  ;   =  
+J ; ACCEPTAIT ; TOUT ; DE ; SUITE
+================================================================================
+common_voice_fr_17395240, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+COMMENT ; VA ; TOUT ; LE ; MONDE
+   =    ; =  ;  =   ; =  ;   =  
+COMMENT ; VA ; TOUT ; LE ; MONDE
+================================================================================
+common_voice_fr_17778194, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+ELLE ; VA ; ME ; TAPER
+ =   ; =  ; =  ;   =  
+ELLE ; VA ; ME ; TAPER
+================================================================================
+common_voice_fr_17379268, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+LE ; MORCEAU ; DE ; PAIN
+=  ;    =    ; =  ;  =  
+LE ; MORCEAU ; DE ; PAIN
+================================================================================
+common_voice_fr_18422405, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+IL ; EST ; CHAUD
+=  ;  =  ;   =  
+IL ; EST ; CHAUD
+================================================================================
+common_voice_fr_17385712, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+IL ; ARRIVE ; BIENTÔT
+=  ;   =    ;    =   
+IL ; ARRIVE ; BIENTÔT
+================================================================================
+common_voice_fr_17447192, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+ELLE ; ELLE ; AIMAIT
+ =   ;  =   ;   =   
+ELLE ; ELLE ; AIMAIT
+================================================================================
+common_voice_fr_18015282, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+IMPOSSIBLE ; DE ; ME ; RAPPELER
+    =      ; =  ; =  ;    =    
+IMPOSSIBLE ; DE ; ME ; RAPPELER
+================================================================================
+common_voice_fr_17334668, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; TROP ; GRAND
+= ;  =  ;  =   ;   =  
+C ; EST ; TROP ; GRAND
+================================================================================
+common_voice_fr_17400483, %WER 0.00 [ 0 / 9, 0 ins, 0 del, 0 sub ]
+ON ; M ; A ; DIT ; D ; ALLER ; À ; L ; ÉCOLE
+=  ; = ; = ;  =  ; = ;   =   ; = ; = ;   =  
+ON ; M ; A ; DIT ; D ; ALLER ; À ; L ; ÉCOLE
+================================================================================
+common_voice_fr_17557129, %WER 80.00 [ 4 / 5, 0 ins, 1 del, 3 sub ]
+ C  ;  EST  ; MA ;  SŒUR ; AÎNÉE 
+ S  ;   D   ; =  ;   S   ;   S   
+CES ; <eps> ; MA ; SŒURS ; AÎNÉES
+================================================================================
+common_voice_fr_17782624, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+IL ; N ; EST ; PAS ; MAUVAIS
+=  ; = ;  =  ;  =  ;    =   
+IL ; N ; EST ; PAS ; MAUVAIS
+================================================================================
+common_voice_fr_18027130, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+MAIS ; IL ; EST ; PARTI
+ =   ; =  ;  =  ;   =  
+MAIS ; IL ; EST ; PARTI
+================================================================================
+common_voice_fr_17327898, %WER 80.00 [ 4 / 5, 1 ins, 1 del, 2 sub ]
+  C   ; EST ; SIGNÉ ; DIDIER ; MIGAUD ; <eps>
+  D   ;  =  ;   =   ;   S    ;   S    ;   I  
+<eps> ; EST ; SIGNÉ ;   D    ;  ITIE  ;  MIGO
+================================================================================
+common_voice_fr_17826252, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+À ; LA ; BONNE ; HEURE
+= ; =  ;   =   ;   =  
+À ; LA ; BONNE ; HEURE
+================================================================================
+common_voice_fr_23973607, %WER 40.00 [ 2 / 5, 0 ins, 1 del, 1 sub ]
+D ;    OÙ   ; VIENT ; L ; ARGENT
+= ;    S    ;   D   ; = ;   =   
+D ; OÙVIENT ; <eps> ; L ; ARGENT
+================================================================================
+common_voice_fr_17385716, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+LE ; BEAU ; TEMPS
+=  ;  =   ;   =  
+LE ; BEAU ; TEMPS
+================================================================================
+common_voice_fr_18797243, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+IL ; EST ; TEMPS
+=  ;  =  ;   =  
+IL ; EST ; TEMPS
+================================================================================
+common_voice_fr_17399418, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+VOUS ; VENEZ ; CE ; SOIR
+ =   ;   =   ; =  ;  =  
+VOUS ; VENEZ ; CE ; SOIR
+================================================================================
+common_voice_fr_17822733, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+LE ; PARTI ; ÉTAIT ; BIEN ; MALADE
+=  ;   =   ;   =   ;  =   ;   =   
+LE ; PARTI ; ÉTAIT ; BIEN ; MALADE
+================================================================================
+common_voice_fr_18468831, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; TON ; TOUR
+= ;  =  ;  =  ;  =  
+C ; EST ; TON ; TOUR
+================================================================================
+common_voice_fr_17436962, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+ELLES ; ELLES ; ONT ; ÉTÉ ; AIMÉES
+  =   ;   =   ;  =  ;  =  ;   =   
+ELLES ; ELLES ; ONT ; ÉTÉ ; AIMÉES
+================================================================================
+common_voice_fr_17919430, %WER 14.29 [ 1 / 7, 0 ins, 0 del, 1 sub ]
+IL ; N ; Y ; A ; PAS ; DE ; CHAISES
+=  ; = ; = ; = ;  =  ; =  ;    S   
+IL ; N ; Y ; A ; PAS ; DE ;  CHAISE
+================================================================================
+common_voice_fr_17359676, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+IL ; Y ; EN ; A
+=  ; = ; =  ; =
+IL ; Y ; EN ; A
+================================================================================
+common_voice_fr_18954994, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+L ; AFFAIRE ; FIT  ; GRAND ; BRUIT
+= ;    =    ;  S   ;   =   ;   =  
+L ; AFFAIRE ; FAIT ; GRAND ; BRUIT
+================================================================================
+common_voice_fr_17443457, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+AUCUNE ; AUTRE ; CHAISE
+  =    ;   =   ;   =   
+AUCUNE ; AUTRE ; CHAISE
+================================================================================
+common_voice_fr_17447193, %WER 33.33 [ 1 / 3, 0 ins, 0 del, 1 sub ]
+VOUS ; ÊTES ; FATIGUÉES
+ =   ;  =   ;     S    
+VOUS ; ÊTES ;  FATIGUÉ 
+================================================================================
+common_voice_fr_17395239, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+ON ; A ; AIMÉ
+=  ; = ;  =  
+ON ; A ; AIMÉ
+================================================================================
+common_voice_fr_23565260, %WER 66.67 [ 2 / 3, 0 ins, 1 del, 1 sub ]
+  LAISSE   ;  MOI  ; TRANQUILLE
+    S      ;   D   ;     =     
+LAISSEMENT ; <eps> ; TRANQUILLE
+================================================================================
+common_voice_fr_17311770, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+ON ; DÉPLACE ; L ; ÉQUILIBRE
+=  ;    =    ; = ;     =    
+ON ; DÉPLACE ; L ; ÉQUILIBRE
+================================================================================
+common_voice_fr_17753438, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; UNE ; MAISON
+= ;  =  ;  =  ;   =   
+C ; EST ; UNE ; MAISON
+================================================================================
+common_voice_fr_17447190, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+TU ; ES ; ICI
+=  ; =  ;  = 
+TU ; ES ; ICI
+================================================================================
+common_voice_fr_18058692, %WER 100.00 [ 3 / 3, 0 ins, 0 del, 3 sub ]
+ GARÇON ;  OU ; FILLE 
+   S    ;  S  ;   S   
+GARÇONS ; AUX ; FILLES
+================================================================================
+common_voice_fr_17537766, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+DES ; JOUEURS ; VIOLENTS
+ =  ;    =    ;    =    
+DES ; JOUEURS ; VIOLENTS
+================================================================================
+common_voice_fr_17664460, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+QUI ; Y ; A ; T ; IL
+ S  ; = ; = ; = ; = 
+ QU ; Y ; A ; T ; IL
+================================================================================
+common_voice_fr_17586612, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+JEAN ; NOUS ; SOMMES ; VOISINS
+ =   ;  =   ;   S    ;    =   
+JEAN ; NOUS ; SONGS  ; VOISINS
+================================================================================
+common_voice_fr_17492091, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+POUR ; EUX ; CE ; SERAIT ; UNE ; AIDE
+ =   ;  =  ; =  ;   =    ;  =  ;  S  
+POUR ; EUX ; CE ; SERAIT ; UNE ; ÊTRE
+================================================================================
+common_voice_fr_18680234, %WER 50.00 [ 2 / 4, 0 ins, 0 del, 2 sub ]
+L ; ORAGE ;   A    ; REDOUBLÉ
+= ;   =   ;   S    ;    S    
+L ; ORAGE ; ARRIVE ; DEMEURE 
+================================================================================
+common_voice_fr_17778195, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+ELLE ; CHANGEA ; DE ; COULEUR
+ =   ;    =    ; =  ;    =   
+ELLE ; CHANGEA ; DE ; COULEUR
+================================================================================
+common_voice_fr_17894988, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+MADAME ; EST ; ALLÉE ; À ; PARIS
+  =    ;  =  ;   S   ; = ;   =  
+MADAME ; EST ;  ALLÉ ; À ; PARIS
+================================================================================
+common_voice_fr_17308911, %WER 66.67 [ 2 / 3, 0 ins, 1 del, 1 sub ]
+ C   ;  EST  ; EXACT
+ S   ;   D   ;   =  
+PEUT ; <eps> ; EXACT
+================================================================================
+common_voice_fr_18014425, %WER 66.67 [ 4 / 6, 0 ins, 3 del, 1 sub ]
+IL ; EST ; TEMPS  ;   D   ;   Y   ; ALLER
+=  ;  =  ;   S    ;   D   ;   D   ;   D  
+IL ; EST ; ENDIAL ; <eps> ; <eps> ; <eps>
+================================================================================
+common_voice_fr_18770149, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+IL ; EST ; DE ; SUPPRESSION
+=  ;  =  ; =  ;      =     
+IL ; EST ; DE ; SUPPRESSION
+================================================================================
+common_voice_fr_18026384, %WER 75.00 [ 3 / 4, 0 ins, 2 del, 1 sub ]
+MOI ;   J    ;   AI  ;  AIMÉ
+ =  ;   S    ;   D   ;   D  
+MOI ; JAMAIS ; <eps> ; <eps>
+================================================================================
+common_voice_fr_17960895, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+RUE ; DE ;  SABEL  ; BARJAC
+ =  ; =  ;    S    ;   =   
+RUE ; DE ; SABELLE ; BARJAC
+================================================================================
+common_voice_fr_17492095, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+MAIS ; PARFOIS ; SUR ; LA ; COMPARAISON
+ =   ;    =    ;  =  ; =  ;      =     
+MAIS ; PARFOIS ; SUR ; LA ; COMPARAISON
+================================================================================
+common_voice_fr_17391148, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; PAS ; JUSTE
+= ;  =  ;  =  ;   =  
+C ; EST ; PAS ; JUSTE
+================================================================================
+common_voice_fr_17407707, %WER 33.33 [ 1 / 3, 0 ins, 0 del, 1 sub ]
+ÇA ; SE ; POURRAIT
+=  ; S  ;    =    
+ÇA ; CE ; POURRAIT
+================================================================================
+common_voice_fr_18471353, %WER 40.00 [ 2 / 5, 0 ins, 0 del, 2 sub ]
+ON ;  L  ; AIMAIT ; MALGRÉ ; TOUT
+=  ;  S  ;   S    ;   =    ;  =  
+ON ; LES ;  MÊME  ; MALGRÉ ; TOUT
+================================================================================
+common_voice_fr_17563422, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+FEU  ; DANS ; LA ; CHEMINÉE
+ S   ;  =   ; =  ;    =    
+FEUX ; DANS ; LA ; CHEMINÉE
+================================================================================
+common_voice_fr_17386742, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+VOILÀ ; QUI ; EST ; VRAI
+  =   ;  =  ;  =  ;  =  
+VOILÀ ; QUI ; EST ; VRAI
+================================================================================
+common_voice_fr_17399412, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+IL ; NE ; FAIT ; QUE ; MANGER
+=  ; =  ;  =   ;  =  ;   =   
+IL ; NE ; FAIT ; QUE ; MANGER
+================================================================================
+common_voice_fr_17487668, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+JE ; M ; APPELLE ;  RAJA
+=  ; = ;    =    ;   S  
+JE ; M ; APPELLE ; RAJAT
+================================================================================
+common_voice_fr_18866748, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; TROP ; TARD
+= ;  =  ;  =   ;  =  
+C ; EST ; TROP ; TARD
+================================================================================
+common_voice_fr_17786211, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+ON ; VA ; BIEN ; HAUT ; AINSI
+=  ; =  ;  =   ;  S   ;   =  
+ON ; VA ; BIEN ;  OU  ; AINSI
+================================================================================
+common_voice_fr_17394327, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+IL ; DEVRA ; ÊTRE ; QUELQUE ; PART
+=  ;   =   ;  =   ;    =    ;  =  
+IL ; DEVRA ; ÊTRE ; QUELQUE ; PART
+================================================================================
+common_voice_fr_18187776, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+IL ; NE ; FAIT ; PAS ; BEAU ; AUJOURD ; HUI
+=  ; =  ;  =   ;  =  ;  =   ;    =    ;  = 
+IL ; NE ; FAIT ; PAS ; BEAU ; AUJOURD ; HUI
+================================================================================
+common_voice_fr_17447191, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+ELLES ; SONT ; EN ; TRAIN ; DE ; COURRIR
+  =   ;  =   ; =  ;   =   ; =  ;    S   
+ELLES ; SONT ; EN ; TRAIN ; DE ;  COURIR
+================================================================================
+common_voice_fr_19702791, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+ON ; PEUT ; MÊME ; LE ; TROUVER ; EN ; PELUCHE
+=  ;  =   ;  =   ; =  ;    =    ; =  ;    =   
+ON ; PEUT ; MÊME ; LE ; TROUVER ; EN ; PELUCHE
+================================================================================
+common_voice_fr_17393474, %WER 100.00 [ 5 / 5, 0 ins, 2 del, 3 sub ]
+ATTENDEZ ;      UN      ;  PETIT  ; MOMENT ; TÉLÉPHONE
+   S     ;      S       ;    S    ;   D    ;     D    
+RÉPONDEZ ; ACTIVEMENTER ; CÉLÉBRE ; <eps>  ;   <eps>  
+================================================================================
+common_voice_fr_17385710, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+SES ; PARENTS ; SONT ; SÉPARÉS
+ =  ;    =    ;  =   ;    =   
+SES ; PARENTS ; SONT ; SÉPARÉS
+================================================================================
+common_voice_fr_18471351, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+POUR ; QUE ; NOUS ; PÊCHIONS
+ =   ;  =  ;  =   ;    =    
+POUR ; QUE ; NOUS ; PÊCHIONS
+================================================================================
+common_voice_fr_17789721, %WER 12.50 [ 1 / 8, 0 ins, 0 del, 1 sub ]
+DES ; POMMES ; DE ; TERRE ; EN ; ROBE ; DES ; CHAMPS
+ S  ;   =    ; =  ;   =   ; =  ;  =   ;  =  ;   =   
+ DE ; POMMES ; DE ; TERRE ; EN ; ROBE ; DES ; CHAMPS
+================================================================================
+common_voice_fr_19728500, %WER 50.00 [ 2 / 4, 0 ins, 0 del, 2 sub ]
+C ; EST ; LÀ ;  QU
+= ;  =  ; S  ;  S 
+C ; EST ; LA ; CLÉ
+================================================================================
+common_voice_fr_17413715, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+TU ; ES ; SÛR ; QUE ; NOUS ; AIMERONS
+=  ; =  ;  =  ;  =  ;  =   ;    =    
+TU ; ES ; SÛR ; QUE ; NOUS ; AIMERONS
+================================================================================
+common_voice_fr_17458708, %WER 66.67 [ 2 / 3, 0 ins, 0 del, 2 sub ]
+MAINTENANT ;  IL  ;  PÊCHE 
+    =      ;  S   ;    S   
+MAINTENANT ; ELLE ; PÊCHENT
+================================================================================
+common_voice_fr_17386921, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+IL ; Y ; A ; DES ; MALADES ; PARMI ; ELLES
+=  ; = ; = ;  =  ;    =    ;   =   ;   =  
+IL ; Y ; A ; DES ; MALADES ; PARMI ; ELLES
+================================================================================
+common_voice_fr_17810823, %WER 75.00 [ 3 / 4, 1 ins, 0 del, 2 sub ]
+TROIS ; VILLAGE  ; DE ; LAFONTASSE ;  <eps>  
+  =   ;    S     ; =  ;     S      ;    I    
+TROIS ; VILLAGES ; DE ;     LA     ; FONTASSE
+================================================================================
+common_voice_fr_17386741, %WER 50.00 [ 2 / 4, 0 ins, 0 del, 2 sub ]
+POUR ; QU ;  IL ;  PÊCHE 
+ =   ; =  ;  S  ;    S   
+POUR ; QU ; ILS ; PÊCHENT
+================================================================================
+common_voice_fr_17507533, %WER 100.00 [ 3 / 3, 1 ins, 1 del, 1 sub ]
+  <eps>    ; UN ;  PAUVRE ; IMBÉCILE
+    I      ; =  ;    S    ;    D    
+COMPRENDRE ; UN ; DOSSIER ;  <eps>  
+================================================================================
+common_voice_fr_18233882, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+DITES ; MOI ; S ; IL ; VOUS ; PLAIT
+  =   ;  =  ; = ; =  ;  =   ;   =  
+DITES ; MOI ; S ; IL ; VOUS ; PLAIT
+================================================================================
+common_voice_fr_17746254, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+C ; EST ; TOI ; QUI ; L ; A
+= ;  =  ;  S  ;  =  ; = ; =
+C ; EST ;  AU ; QUI ; L ; A
+================================================================================
+common_voice_fr_17753439, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+INVITÉS ; DES ; DEUX ; SEXES
+   =    ;  =  ;  =   ;   =  
+INVITÉS ; DES ; DEUX ; SEXES
+================================================================================
+common_voice_fr_17561828, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+QU ; AVEZ ; VOUS ; DONC
+=  ;  =   ;  =   ;  =  
+QU ; AVEZ ; VOUS ; DONC
+================================================================================
+common_voice_fr_23346263, %WER 33.33 [ 1 / 3, 0 ins, 0 del, 1 sub ]
+ MÈRE ; DE ; LAMINE
+  S   ; =  ;   =   
+MAIRE ; DE ; LAMINE
+================================================================================
+common_voice_fr_17426012, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+ELLE ; SERA ; AVEC ; NOUS ; DEMAIN
+ =   ;  =   ;  =   ;  =   ;   =   
+ELLE ; SERA ; AVEC ; NOUS ; DEMAIN
+================================================================================
+common_voice_fr_18922397, %WER 60.00 [ 3 / 5, 0 ins, 1 del, 2 sub ]
+ET ;     J      ; ACHÈVERAI ; MON ; DEVOIR
+S  ;     S      ;     D     ;  =  ;   =   
+IL ; ESTCHÉRAIT ;   <eps>   ; MON ; DEVOIR
+================================================================================
+common_voice_fr_17984706, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+C ; EST ; UNE ; BELLE ; COUPE ; DE ; FILLE
+= ;  =  ;  =  ;   =   ;   =   ; =  ;   =  
+C ; EST ; UNE ; BELLE ; COUPE ; DE ; FILLE
+================================================================================
+common_voice_fr_17383758, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+FAITES ; COMME ; JE ; VOUS ; DIS
+  =    ;   =   ; =  ;  =   ;  = 
+FAITES ; COMME ; JE ; VOUS ; DIS
+================================================================================
+common_voice_fr_18026383, %WER 14.29 [ 1 / 7, 0 ins, 0 del, 1 sub ]
+IL ; Y ; A ; DES ; RICHES ; À ; ETEL
+=  ; = ; = ;  =  ;   =    ; = ;  S  
+IL ; Y ; A ; DES ; RICHES ; À ; TELS
+================================================================================
+common_voice_fr_17666971, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+IL ; EN ; A ; BESOIN
+=  ; =  ; = ;   =   
+IL ; EN ; A ; BESOIN
+================================================================================
+common_voice_fr_17458707, %WER 60.00 [ 3 / 5, 1 ins, 0 del, 2 sub ]
+TU ; NE ; MANGES ; <eps> ; PAS ; ASSEZ
+S  ; =  ;   S    ;   I   ;  =  ;   =  
+CE ; NE ;   M    ;  ENGE ; PAS ; ASSEZ
+================================================================================
+common_voice_fr_17947581, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+AVEC ; QUOI ; VOUS ; DIVERTISSEZ ; VOUS
+ =   ;  =   ;  =   ;      =      ;  =  
+AVEC ; QUOI ; VOUS ; DIVERTISSEZ ; VOUS
+================================================================================
+common_voice_fr_19604119, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+SON ; FOND ; EST ; PLAT
+ =  ;  =   ;  =  ;  =  
+SON ; FOND ; EST ; PLAT
+================================================================================
+common_voice_fr_17436959, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+LA ; MAISON ; EST ; JOLIE
+=  ;   =    ;  =  ;   =  
+LA ; MAISON ; EST ; JOLIE
+================================================================================
+common_voice_fr_17485002, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+OÙ ; EST ; ELLE
+=  ;  =  ;  =  
+OÙ ; EST ; ELLE
+================================================================================
+common_voice_fr_17400487, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+IL ; EST ; CAPABLE ; OUI ; OU ; NON
+=  ;  =  ;    =    ;  =  ; =  ;  = 
+IL ; EST ; CAPABLE ; OUI ; OU ; NON
+================================================================================
+common_voice_fr_17320205, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+NON ; JE ; SUIS ; LÀ
+ =  ; =  ;  =   ; = 
+NON ; JE ; SUIS ; LÀ
+================================================================================
+common_voice_fr_19947915, %WER 33.33 [ 1 / 3, 0 ins, 0 del, 1 sub ]
+LA ; FAILLITE ; MENAÇAIT
+=  ;    =     ;    S    
+LA ; FAILLITE ; MENACÉE 
+================================================================================
+common_voice_fr_18484634, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+NE ; VIENS ; PAS ; ICI
+=  ;   S   ;  =  ;  = 
+NE ; VIENT ; PAS ; ICI
+================================================================================
+common_voice_fr_17819621, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+NE ; CRAIGNEZ ; RIEN ; POUR ; MA ; SANTÉ
+=  ;    =     ;  =   ;  =   ; =  ;   =  
+NE ; CRAIGNEZ ; RIEN ; POUR ; MA ; SANTÉ
+================================================================================
+common_voice_fr_17960896, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+IL ; TRÉPIGNE ; D ; IMPATIENCE
+=  ;    =     ; = ;     =     
+IL ; TRÉPIGNE ; D ; IMPATIENCE
+================================================================================
+common_voice_fr_21302608, %WER 40.00 [ 2 / 5, 0 ins, 1 del, 1 sub ]
+J ;   AI  ;  ÉTÉ  ; DIPLÔMÉ ; MAIS
+= ;   S   ;   D   ;    =    ;  =  
+J ; ÉTAIS ; <eps> ; DIPLÔMÉ ; MAIS
+================================================================================
+common_voice_fr_17923329, %WER 75.00 [ 3 / 4, 0 ins, 2 del, 1 sub ]
+  QU  ;   IL  ;  EST  ; BÊTE
+  S   ;   D   ;   D   ;  =  
+KHILL ; <eps> ; <eps> ; BÊTE
+================================================================================
+common_voice_fr_19607358, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+CE ; FUT ; UN ; GROS ; TRAVAIL
+=  ;  =  ; =  ;  =   ;    =   
+CE ; FUT ; UN ; GROS ; TRAVAIL
+================================================================================
+common_voice_fr_17329195, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+JE ; L ; AIME ; ENCORE
+=  ; = ;  =   ;   =   
+JE ; L ; AIME ; ENCORE
+================================================================================
+common_voice_fr_17452055, %WER 33.33 [ 1 / 3, 0 ins, 0 del, 1 sub ]
+NE ;  BOUGEZ ; PAS
+=  ;    S    ;  = 
+NE ; BOUGEEZ ; PAS
+================================================================================
+common_voice_fr_18800272, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+VOUS ; NE ; LE ; SAVIEZ ; PAS
+ =   ; =  ; =  ;   =    ;  = 
+VOUS ; NE ; LE ; SAVIEZ ; PAS
+================================================================================
+common_voice_fr_19752446, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+UN ; AUTRE ; EST ; FUSILLÉ
+=  ;   =   ;  =  ;    =   
+UN ; AUTRE ; EST ; FUSILLÉ
+================================================================================
+common_voice_fr_17557130, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+IL ; VA ; LE ; TUER ; ROXANE
+=  ; =  ; =  ;  =   ;   =   
+IL ; VA ; LE ; TUER ; ROXANE
+================================================================================
+common_voice_fr_18471352, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+ON ; NE ; PEUT ; PAS ; DIRE ; ÇA
+=  ; =  ;  =   ;  =  ;  =   ; = 
+ON ; NE ; PEUT ; PAS ; DIRE ; ÇA
+================================================================================
+common_voice_fr_17945154, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+  PUIS   ; IL ; APPELA ; GAVROCHE
+   S     ; =  ;   =    ;    =    
+PHILIPPE ; IL ; APPELA ; GAVROCHE
+================================================================================
+common_voice_fr_19624095, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+QU ; EST ; CE ; QUE ; C ; EST ; MOI
+=  ;  =  ; =  ;  =  ; = ;  =  ;  = 
+QU ; EST ; CE ; QUE ; C ; EST ; MOI
+================================================================================
+common_voice_fr_17483374, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+VINGT ; QUATRE ; HEURES
+  =   ;   =    ;   =   
+VINGT ; QUATRE ; HEURES
+================================================================================
+common_voice_fr_18524226, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+IL ; N ; EST ; PAS ; AVEC ; VOUS
+=  ; = ;  =  ;  =  ;  =   ;  =  
+IL ; N ; EST ; PAS ; AVEC ; VOUS
+================================================================================
+common_voice_fr_18058691, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+ÇA ; C ; EST ; ÊTRE ; CONNU
+=  ; = ;  =  ;  =   ;   =  
+ÇA ; C ; EST ; ÊTRE ; CONNU
+================================================================================
+common_voice_fr_17802727, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; DÉJÀ ; FAIT
+= ;  =  ;  =   ;  =  
+C ; EST ; DÉJÀ ; FAIT
+================================================================================
+common_voice_fr_18468828, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+ELLE ; NE ; RÉPONDIT ; PAS
+ =   ; =  ;    =     ;  = 
+ELLE ; NE ; RÉPONDIT ; PAS
+================================================================================
+common_voice_fr_17303375, %WER 50.00 [ 2 / 4, 0 ins, 0 del, 2 sub ]
+C ; EST ; DU ; CAPORALISME 
+= ;  =  ; S  ;      S      
+C ; EST ; LE ; CRAPOVALISME
+================================================================================
+common_voice_fr_17334989, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+L ; HEURE ; DU ; DÎNER
+= ;   =   ; =  ;   =  
+L ; HEURE ; DU ; DÎNER
+================================================================================
+common_voice_fr_17331406, %WER 33.33 [ 1 / 3, 0 ins, 0 del, 1 sub ]
+ASSUMEZ ; VOS ; CHOIX
+   S    ;  =  ;   =  
+ASSUNEZ ; VOS ; CHOIX
+================================================================================
+common_voice_fr_17350197, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+QU ; AVEZ ; VOUS ; OUVERT
+=  ;  =   ;  =   ;   =   
+QU ; AVEZ ; VOUS ; OUVERT
+================================================================================
+common_voice_fr_17320226, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+ON ; N ; A ; PAS ; ÉTÉ ; DÉÇUS
+=  ; = ; = ;  =  ;  =  ;   S  
+ON ; N ; A ; PAS ; ÉTÉ ;  DÉÇU
+================================================================================
+common_voice_fr_18166259, %WER 33.33 [ 1 / 3, 0 ins, 0 del, 1 sub ]
+RÉPARTISSONS ; LES ; CHOSES
+     S       ;  =  ;   =   
+REPARTISSONS ; LES ; CHOSES
+================================================================================
+common_voice_fr_20292277, %WER 50.00 [ 3 / 6, 0 ins, 0 del, 3 sub ]
+ET ; LA ; LAISSER ; PRENDRE ; LA ; SUITE
+S  ; S  ;    S    ;    =    ; =  ;   =  
+IL ; A  ;  LAISSÉ ; PRENDRE ; LA ; SUITE
+================================================================================
+common_voice_fr_18224803, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+JE ; SUIS ; À ; LA ; FENÊTRE
+=  ;  =   ; = ; =  ;    =   
+JE ; SUIS ; À ; LA ; FENÊTRE
+================================================================================
+common_voice_fr_22932352, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+LE ; MINISTÈRE ; DE ; LA ; SANTÉ ; RESTE ; VACANT
+=  ;     =     ; =  ; =  ;   =   ;   =   ;   =   
+LE ; MINISTÈRE ; DE ; LA ; SANTÉ ; RESTE ; VACANT
+================================================================================
+common_voice_fr_19654219, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+SA ; CARRIÈRE ; DÉBUTE
+=  ;    =     ;   =   
+SA ; CARRIÈRE ; DÉBUTE
+================================================================================
+common_voice_fr_18697918, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+TU ; ES ; SÛR ; QU ; IL ;  AIME 
+=  ; =  ;  =  ; =  ; =  ;   S   
+TU ; ES ; SÛR ; QU ; IL ; AIMAIT
+================================================================================
+common_voice_fr_23042837, %WER 100.00 [ 3 / 3, 1 ins, 0 del, 2 sub ]
+C ; ÉTAIT ; LOUIS ; <eps>
+= ;   S   ;   S   ;   I  
+C ;  EST  ;  ELLE ;  OUI 
+================================================================================
+common_voice_fr_20371947, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+SI ; JE ; LE ; SAIS
+=  ; =  ; =  ;  =  
+SI ; JE ; LE ; SAIS
+================================================================================
+common_voice_fr_17447189, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+NON ; C ; EST ; LA ; PREMIÈRE ; FOIS
+ =  ; = ;  =  ; =  ;    =     ;  =  
+NON ; C ; EST ; LA ; PREMIÈRE ; FOIS
+================================================================================
+common_voice_fr_19058006, %WER 12.50 [ 1 / 8, 0 ins, 1 del, 0 sub ]
+IL ;   A   ; FAIT ; PARTIE ; DE ; LA ; FRANC ; MAÇONNERIE
+=  ;   D   ;  =   ;   =    ; =  ; =  ;   =   ;     =     
+IL ; <eps> ; FAIT ; PARTIE ; DE ; LA ; FRANC ; MAÇONNERIE
+================================================================================
+common_voice_fr_17822729, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; TRÈS ; DISCUTABLE
+= ;  =  ;  =   ;     =     
+C ; EST ; TRÈS ; DISCUTABLE
+================================================================================
+common_voice_fr_18219613, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+J ; AIME ; L ; ANGLAIS
+= ;  =   ; = ;    =   
+J ; AIME ; L ; ANGLAIS
+================================================================================
+common_voice_fr_17386922, %WER 66.67 [ 4 / 6, 0 ins, 1 del, 3 sub ]
+ TU ;   ES  ; PARENT ; AVEC ;    M     ; MOHAN
+ S  ;   D   ;   =    ;  =   ;    S     ;   S  
+SUÉ ; <eps> ; PARENT ; AVEC ; MONSIEUR ; MOINE
+================================================================================
+common_voice_fr_18420229, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+ELLE ; AIMERAIT ; TA ; SŒUR
+ =   ;    =     ; =  ;  =  
+ELLE ; AIMERAIT ; TA ; SŒUR
+================================================================================
+common_voice_fr_17932902, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+DONNONS ; LUI ; DE ; L ; OCCUPATION
+   S    ;  =  ; =  ; = ;     =     
+DONNANT ; LUI ; DE ; L ; OCCUPATION
+================================================================================
+common_voice_fr_17492092, %WER 25.00 [ 2 / 8, 0 ins, 0 del, 2 sub ]
+QUE ; LE ; TEMPS ; EST ; BEAU ; DANS ; TON ; PAYS
+ =  ; S  ;   =   ;  =  ;  =   ;  =   ;  S  ;  =  
+QUE ; DE ; TEMPS ; EST ; BEAU ; DANS ; MON ; PAYS
+================================================================================
+common_voice_fr_20471864, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+IL ; JOUA ; D ; ABORD ; AU ; THÉÂTRE ; ITALIEN
+=  ;  =   ; = ;   =   ; =  ;    =    ;    =   
+IL ; JOUA ; D ; ABORD ; AU ; THÉÂTRE ; ITALIEN
+================================================================================
+common_voice_fr_18481622, %WER 50.00 [ 2 / 4, 0 ins, 1 del, 1 sub ]
+JE ; VAIS ;    À    ; TABLE
+=  ;  =   ;    S    ;   D  
+JE ; VAIS ; ATTABLE ; <eps>
+================================================================================
+common_voice_fr_17917979, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+A ; LA ; BONNE ; HEURE
+S ; =  ;   =   ;   =  
+À ; LA ; BONNE ; HEURE
+================================================================================
+common_voice_fr_17838852, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+SEPT ; RUE ; DE ; LA ; MARTINELLE
+ =   ;  =  ; =  ; =  ;     S     
+SEPT ; RUE ; DE ; LA ;  MARTINEN 
+================================================================================
+common_voice_fr_19714646, %WER 33.33 [ 1 / 3, 0 ins, 0 del, 1 sub ]
+ MARY ; ET ; ST
+  S   ; =  ; = 
+MARIE ; ET ; ST
+================================================================================
+common_voice_fr_18187777, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+CERTES ; SI ; VOUS ; RESTEZ ; LÀ
+  =    ; =  ;  =   ;   =    ; = 
+CERTES ; SI ; VOUS ; RESTEZ ; LÀ
+================================================================================
+common_voice_fr_18187779, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+VOUS ; CONNAISSEZ ; PARFAITEMENT ; LES ; LIEUX
+ =   ;     =      ;      =       ;  =  ;   =  
+VOUS ; CONNAISSEZ ; PARFAITEMENT ; LES ; LIEUX
+================================================================================
+common_voice_fr_18038797, %WER 40.00 [ 2 / 5, 0 ins, 1 del, 1 sub ]
+ON ; NE ; SAIT ;    FIT    ; BRIENNE
+=  ; =  ;  =   ;     S     ;    D   
+ON ; NE ; SAIT ; FIBRIENNE ;  <eps> 
+================================================================================
+common_voice_fr_19653323, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+ELLE ; POURSUIT ; UNE ; CARRIÈRE ; MUSICALE
+ =   ;    =     ;  =  ;    =     ;    =    
+ELLE ; POURSUIT ; UNE ; CARRIÈRE ; MUSICALE
+================================================================================
+common_voice_fr_17726339, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+J ; Y ; AI ; RÉUSSI ; JUSQU ; À ; PRÉSENT
+= ; = ; =  ;   =    ;   =   ; = ;    =   
+J ; Y ; AI ; RÉUSSI ; JUSQU ; À ; PRÉSENT
+================================================================================
+common_voice_fr_17440372, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+LE ; PLUS ; ANCIEN
+=  ;  =   ;   =   
+LE ; PLUS ; ANCIEN
+================================================================================
+common_voice_fr_17968232, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+MAIS ; REGARDE ; MOI ; DONC
+ =   ;    S    ;  =  ;  =  
+MAIS ;  REGARD ; MOI ; DONC
+================================================================================
+common_voice_fr_18868812, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+JE ; LES ; IGNORAIS
+=  ;  =  ;    =    
+JE ; LES ; IGNORAIS
+================================================================================
+common_voice_fr_19802819, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+IL ; LUI ; PARDONNE
+=  ;  =  ;    =    
+IL ; LUI ; PARDONNE
+================================================================================
+common_voice_fr_17357537, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; LÀ ; BAS
+= ;  =  ; =  ;  = 
+C ; EST ; LÀ ; BAS
+================================================================================
+common_voice_fr_17863423, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+VOUS ; ÊTES ; SI ; BONNE ; POUR ; MOI
+ =   ;  =   ; =  ;   =   ;  =   ;  = 
+VOUS ; ÊTES ; SI ; BONNE ; POUR ; MOI
+================================================================================
+common_voice_fr_23597089, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+QUI ; LISAIT ; ENCORE ; DES ; LIVRES
+ =  ;   =    ;   =    ;  =  ;   =   
+QUI ; LISAIT ; ENCORE ; DES ; LIVRES
+================================================================================
+common_voice_fr_17333300, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+CET ; ENDROIT ; ME ; PLAIT
+ =  ;    =    ; =  ;   S  
+CET ; ENDROIT ; ME ; PLAÎT
+================================================================================
+common_voice_fr_17581737, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+ELLE ; ÉTAIT ;  TROP  ; ÉPOUVANTÉE
+ =   ;   =   ;   S    ;     =     
+ELLE ; ÉTAIT ; TROMPE ; ÉPOUVANTÉE
+================================================================================
+common_voice_fr_18372457, %WER 100.00 [ 3 / 3, 0 ins, 2 del, 1 sub ]
+   SIX    ;  RUE  ; BRÈVE
+    S     ;   D   ;   D  
+CYRUBRÈVE ; <eps> ; <eps>
+================================================================================
+common_voice_fr_17426009, %WER 100.00 [ 3 / 3, 0 ins, 0 del, 3 sub ]
+  QU  ; ENTEND ;  ON 
+  S   ;   S    ;  S  
+QUANT ;   EN   ; TANT
+================================================================================
+common_voice_fr_17426011, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; LES ; VACANCES
+= ;  =  ;  =  ;    =    
+C ; EST ; LES ; VACANCES
+================================================================================
+common_voice_fr_22711989, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+DIT ; ELLE ; ENTRE ; SES ; DENTS
+ =  ;  =   ;   =   ;  =  ;   =  
+DIT ; ELLE ; ENTRE ; SES ; DENTS
+================================================================================
+common_voice_fr_17332535, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+ELLE ; EST ; CHAUDE
+ =   ;  =  ;   =   
+ELLE ; EST ; CHAUDE
+================================================================================
+common_voice_fr_17399821, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+BONNE ; ANNÉE ; À ; VOUS
+  =   ;   =   ; = ;  =  
+BONNE ; ANNÉE ; À ; VOUS
+================================================================================
+common_voice_fr_18893357, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+CAR ; JE ; LE ; CROIS ; TRÈS ; MALHEUREUX
+ =  ; =  ; =  ;   S   ;  =   ;     =     
+CAR ; JE ; LE ; CROIT ; TRÈS ; MALHEUREUX
+================================================================================
+common_voice_fr_17433836, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+EST ; CE ; QU ; IL ; VIENDRA
+ =  ; =  ; =  ; =  ;    =   
+EST ; CE ; QU ; IL ; VIENDRA
+================================================================================
+common_voice_fr_19953221, %WER 33.33 [ 1 / 3, 0 ins, 0 del, 1 sub ]
+CLÉMENCE ; EST ; RASÉE
+   =     ;  =  ;   S  
+CLÉMENCE ; EST ;  RASÉ
+================================================================================
+common_voice_fr_17947580, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+RUE ; JEAN ; GIRARD ; BOURGES
+ =  ;  =   ;   =    ;    =   
+RUE ; JEAN ; GIRARD ; BOURGES
+================================================================================
+common_voice_fr_18501613, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+IL ; EST ; PARTI
+=  ;  =  ;   =  
+IL ; EST ; PARTI
+================================================================================
+common_voice_fr_17505323, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+IL ; DOIT ; COMPRENDRE
+=  ;  =   ;     =     
+IL ; DOIT ; COMPRENDRE
+================================================================================
+common_voice_fr_19598943, %WER 57.14 [ 4 / 7, 0 ins, 0 del, 4 sub ]
+TOUS ; LES ; PLANCHERS ; SONT ; EN ; BOIS ; DUR 
+ S   ;  S  ;     S     ;  =   ; =  ;  =   ;  S  
+TOUT ;  LE ;  PLANCHER ; SONT ; EN ; BOIS ; DIRE
+================================================================================
+common_voice_fr_22749015, %WER 75.00 [ 3 / 4, 0 ins, 0 del, 3 sub ]
+LE ; RIDEAU ; S  ; OUVRE
+=  ;   S    ; S  ;   S  
+LE ;  RIZ   ; DE ; SOURD
+================================================================================
+common_voice_fr_17787739, %WER 14.29 [ 1 / 7, 0 ins, 1 del, 0 sub ]
+CE ; N ; EST ; PLUS ;   DE  ; NOTRE ; ÉPOQUE
+=  ; = ;  =  ;  =   ;   D   ;   =   ;   =   
+CE ; N ; EST ; PLUS ; <eps> ; NOTRE ; ÉPOQUE
+================================================================================
+common_voice_fr_20042437, %WER 75.00 [ 3 / 4, 0 ins, 2 del, 1 sub ]
+SI ;    PEU    ;  QUE  ;  RIEN
+=  ;     S     ;   D   ;   D  
+SI ; PACRURIUM ; <eps> ; <eps>
+================================================================================
+common_voice_fr_18484635, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+SON ; CORPS ; N ; EST ; PAS ; LÀ
+ =  ;   =   ; = ;  =  ;  =  ; = 
+SON ; CORPS ; N ; EST ; PAS ; LÀ
+================================================================================
+common_voice_fr_17433833, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+J ; AI ; DEUX ; FRÈRES ; ET ; UNE ; SŒUR
+= ; =  ;  =   ;   =    ; =  ;  =  ;  =  
+J ; AI ; DEUX ; FRÈRES ; ET ; UNE ; SŒUR
+================================================================================
+common_voice_fr_17399411, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+IL ; EST ; ICI
+=  ;  =  ;  = 
+IL ; EST ; ICI
+================================================================================
+common_voice_fr_17399413, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+UN ; PANTALON ; BEAUCOUP ; TROP ; SERRÉ
+=  ;    =     ;    =     ;  =   ;   =  
+UN ; PANTALON ; BEAUCOUP ; TROP ; SERRÉ
+================================================================================
+common_voice_fr_18077046, %WER 50.00 [ 2 / 4, 0 ins, 1 del, 1 sub ]
+D  ;   OÙ  ; VIENS ; TU
+S  ;   D   ;   =   ; = 
+DE ; <eps> ; VIENS ; TU
+================================================================================
+common_voice_fr_19758512, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+LE ; JEU ; EST ; DÉSORMAIS ; FERMÉ
+=  ;  =  ;  =  ;     =     ;   =  
+LE ; JEU ; EST ; DÉSORMAIS ; FERMÉ
+================================================================================
+common_voice_fr_18459703, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+QUAND ; CELA ; SERA ; T ; IL ; PRÊT
+  =   ;  =   ;  =   ; = ; =  ;  S  
+QUAND ; CELA ; SERA ; T ; IL ; PRÈS
+================================================================================
+common_voice_fr_17334990, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+LA ; CHAISE ; EST ; CASSÉ 
+=  ;   =    ;  =  ;   S   
+LA ; CHAISE ; EST ; CASSÉE
+================================================================================
+common_voice_fr_18902644, %WER 100.00 [ 3 / 3, 0 ins, 0 del, 3 sub ]
+ LE ; TEMPS  ;   PASSÉ  
+ S  ;   S    ;     S    
+LES ; THÈMES ; PASSAIENT
+================================================================================
+common_voice_fr_23955456, %WER 14.29 [ 1 / 7, 0 ins, 0 del, 1 sub ]
+PASSANT ; ENTENDS ; TU ; BÉGAYER ; À ; LA ; FOIS
+   =    ;    S    ; =  ;    =    ; = ; =  ;  =  
+PASSANT ;   TANT  ; TU ; BÉGAYER ; À ; LA ; FOIS
+================================================================================
+common_voice_fr_18812150, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+ON ; EST  ; À ; L ; ORDRE
+=  ;  S   ; = ; = ;   =  
+ON ; NAÎT ; À ; L ; ORDRE
+================================================================================
+common_voice_fr_17333430, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+VOUS ; VOUS ; AIMEZ
+ =   ;  =   ;   =  
+VOUS ; VOUS ; AIMEZ
+================================================================================
+common_voice_fr_17306764, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+C ; EST ; POURQUOI
+= ;  =  ;    =    
+C ; EST ; POURQUOI
+================================================================================
+common_voice_fr_17333748, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+JE ; L ; AI ; VU
+=  ; = ; =  ; = 
+JE ; L ; AI ; VU
+================================================================================
+common_voice_fr_20020206, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+LE ; SORT ; LE ; PREMIER ; NUMÉRO
+=  ;  =   ; =  ;    =    ;   =   
+LE ; SORT ; LE ; PREMIER ; NUMÉRO
+================================================================================
+common_voice_fr_17426013, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+C ; EST ; LUI ; QUE ; J ; AIME ; LE ; PLUS
+= ;  =  ;  =  ;  =  ; = ;  =   ; =  ;  =  
+C ; EST ; LUI ; QUE ; J ; AIME ; LE ; PLUS
+================================================================================
+common_voice_fr_18050331, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+L ; AFFAIRE ; SERA ; CHAUDE
+= ;    =    ;  =   ;   =   
+L ; AFFAIRE ; SERA ; CHAUDE
+================================================================================
+common_voice_fr_17816439, %WER 50.00 [ 2 / 4, 1 ins, 0 del, 1 sub ]
+C ; EST ; COMPLÈTEMENT ; DÉBILE ; <eps> 
+= ;  =  ;      =       ;   S    ;   I   
+C ; EST ; COMPLÈTEMENT ;  DES   ; VILLES
+================================================================================
+common_voice_fr_22738792, %WER 33.33 [ 2 / 6, 0 ins, 0 del, 2 sub ]
+LE ; VIEUX ; N ;  EN ; DORMAIT ; PLUS
+=  ;   =   ; = ;  S  ;    S    ;  =  
+LE ; VIEUX ; N ; ONT ;  DORMI  ; PLUS
+================================================================================
+common_voice_fr_18922398, %WER 100.00 [ 3 / 3, 1 ins, 0 del, 2 sub ]
+HIER ; ELLE ; PÊCHAIT ;  <eps> 
+ =   ;  S   ;    S    ;    I   
+HIER ;  C   ;   EST   ; DÉPÊCHÉ
+================================================================================
+common_voice_fr_18067323, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+AU ; PROFIT ; DES ; GRECS
+=  ;   =    ;  =  ;   =  
+AU ; PROFIT ; DES ; GRECS
+================================================================================
+common_voice_fr_18051719, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+JE ; N ; EN ; SAIS ; RIEN
+=  ; = ; =  ;  =   ;  =  
+JE ; N ; EN ; SAIS ; RIEN
+================================================================================
+common_voice_fr_17766588, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+D ; AUTRES ; ANIMAUX ; JAUNES
+= ;   =    ;    =    ;   =   
+D ; AUTRES ; ANIMAUX ; JAUNES
+================================================================================
+common_voice_fr_17443455, %WER 50.00 [ 2 / 4, 0 ins, 0 del, 2 sub ]
+JE ; SUIS ; EXTRÈMEMENT ; SATISTFAIT
+=  ;  =   ;      S      ;     S     
+JE ; SUIS ; EXTRÊMEMENT ; SATISFAIT 
+================================================================================
+common_voice_fr_17740816, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+UN ; DÉCRET ; POURRAIT ; EN ; PRÉCISER ; LA ; DÉFINITION
+=  ;   =    ;    =     ; =  ;    =     ; =  ;     =     
+UN ; DÉCRET ; POURRAIT ; EN ; PRÉCISER ; LA ; DÉFINITION
+================================================================================
+common_voice_fr_17789722, %WER 11.11 [ 1 / 9, 0 ins, 0 del, 1 sub ]
+NE ; LUI ; OUVREZ ; PAS ; LA ; BOUCHE ; DE ; TOUT ; CELA
+=  ;  =  ;   S    ;  =  ; =  ;   =    ; =  ;  =   ;  =  
+NE ; LUI ; OVRAIT ; PAS ; LA ; BOUCHE ; DE ; TOUT ; CELA
+================================================================================
+common_voice_fr_17399819, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+IL ; EST ; LÀ
+=  ;  =  ; = 
+IL ; EST ; LÀ
+================================================================================
+common_voice_fr_17526227, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+ET ; ELLE ; VIENDRA
+=  ;  =   ;    =   
+ET ; ELLE ; VIENDRA
+================================================================================
+common_voice_fr_18172818, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+LEQUEL ; EST ; VOTRE ; SAC
+  =    ;  =  ;   =   ;  S 
+LEQUEL ; EST ; VOTRE ; SEC
+================================================================================
+common_voice_fr_19577514, %WER 22.22 [ 2 / 9, 1 ins, 0 del, 1 sub ]
+JUSQU ; À ; MINUIT ; <eps> ; LA ; MAISON ; FUT ; EN ; L ; AIR
+  =   ; = ;   S    ;   I   ; =  ;   =    ;  =  ; =  ; = ;  = 
+JUSQU ; À ;   DE   ;  NUIT ; LA ; MAISON ; FUT ; EN ; L ; AIR
+================================================================================
+common_voice_fr_17436960, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+QU ; EST ; CE ; QUE ; TU ; PENSES
+=  ;  =  ; =  ;  =  ; =  ;   =   
+QU ; EST ; CE ; QUE ; TU ; PENSES
+================================================================================
+common_voice_fr_20512797, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+À ; DEMAIN ; VOTRE ; HONNEUR
+= ;   =    ;   =   ;    =   
+À ; DEMAIN ; VOTRE ; HONNEUR
+================================================================================
+common_voice_fr_18333496, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+LE ; COMBIEN ; SOMMES ; NOUS
+=  ;    =    ;   =    ;  =  
+LE ; COMBIEN ; SOMMES ; NOUS
+================================================================================
+common_voice_fr_17307565, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+EMPRUNTEZ ; LA ; AVEC ; COURAGE
+    =     ; S  ;  =   ;    =   
+EMPRUNTEZ ; LÀ ; AVEC ; COURAGE
+================================================================================
+common_voice_fr_19605416, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+LA ; SYNAGOGUE ; EST ; AU ; DEUXIÈME ; ÉTAGE
+=  ;     =     ;  =  ; =  ;    =     ;   =  
+LA ; SYNAGOGUE ; EST ; AU ; DEUXIÈME ; ÉTAGE
+================================================================================
+common_voice_fr_17488280, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+VOUS ; EN ; AUREZ ; D ; AUTRES
+ =   ; =  ;   =   ; = ;   =   
+VOUS ; EN ; AUREZ ; D ; AUTRES
+================================================================================
+common_voice_fr_19616467, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+IL ; EST ; FILS ; DE ; MÉDECIN
+=  ;  =  ;  =   ; =  ;    =   
+IL ; EST ; FILS ; DE ; MÉDECIN
+================================================================================
+common_voice_fr_18477941, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+C ; EST ; SALE
+= ;  =  ;  =  
+C ; EST ; SALE
+================================================================================
+common_voice_fr_17704474, %WER 25.00 [ 1 / 4, 0 ins, 0 del, 1 sub ]
+CHEMIN ; DU ; GOURD ; MONTAGNAT
+  =    ; =  ;   S   ;     =    
+CHEMIN ; DU ; BOURG ; MONTAGNAT
+================================================================================
+common_voice_fr_19728501, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+TRÈS ; BIEN ; J ; AIME ; MIEUX ; ÇA
+ =   ;  =   ; = ;  =   ;   =   ; = 
+TRÈS ; BIEN ; J ; AIME ; MIEUX ; ÇA
+================================================================================
+common_voice_fr_18845689, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+OH ; MERCI ; BEAUCOUP
+=  ;   =   ;    =    
+OH ; MERCI ; BEAUCOUP
+================================================================================
+common_voice_fr_19641240, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+L ; OUVRAGE ; A ; TROIS ; TRAVÉES
+= ;    =    ; = ;   =   ;    =   
+L ; OUVRAGE ; A ; TROIS ; TRAVÉES
+================================================================================
+common_voice_fr_17311769, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+CET ; ARTICLE ; DEUX ; EST ; UNE ; RÉGRESSION
+ =  ;    =    ;  =   ;  =  ;  =  ;     =     
+CET ; ARTICLE ; DEUX ; EST ; UNE ; RÉGRESSION
+================================================================================
+common_voice_fr_17303700, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+PERSONNE ; N ; A ; OUBLIÉ ; LA ; CHIMÈRE
+   =     ; = ; = ;   =    ; =  ;    =   
+PERSONNE ; N ; A ; OUBLIÉ ; LA ; CHIMÈRE
+================================================================================
+common_voice_fr_19647568, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+MISE ; EN ; SCÈNE ; DE ; MOCKER
+ =   ; =  ;   =   ; =  ;   S   
+MISE ; EN ; SCÈNE ; DE ; MOKER 
+================================================================================
+common_voice_fr_19626005, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+SON ; FONCTIONNEMENT ; EST ; LE ; SUIVANT
+ =  ;       =        ;  =  ; =  ;    =   
+SON ; FONCTIONNEMENT ; EST ; LE ; SUIVANT
+================================================================================
+common_voice_fr_17405313, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+JE ; LUI ; ÉCRIVIS ; UNE ; LETTRE
+=  ;  =  ;    =    ;  =  ;   =   
+JE ; LUI ; ÉCRIVIS ; UNE ; LETTRE
+================================================================================
+common_voice_fr_17384740, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+JE ; VEUX ; VOUS ; DONNER ; UN ; CADEAU
+=  ;  S   ;  =   ;   =    ; =  ;   =   
+JE ; VAIS ; VOUS ; DONNER ; UN ; CADEAU
+================================================================================
+common_voice_fr_19727596, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+IL ; EST ; DISSOUS ; DE ; FAIT
+=  ;  =  ;    =    ; =  ;  =  
+IL ; EST ; DISSOUS ; DE ; FAIT
+================================================================================
+common_voice_fr_17413717, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+RÉCEMMENT ; J ; AI ; VU ; UN ; HOMME
+    =     ; = ; =  ; =  ; =  ;   =  
+RÉCEMMENT ; J ; AI ; VU ; UN ; HOMME
+================================================================================
+common_voice_fr_17569923, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+JE ; SOUTIENS ; L ; AMENDEMENT ; DE ; MONSIEUR ; LAURENT
+=  ;    =     ; = ;     =      ; =  ;    =     ;    =   
+JE ; SOUTIENS ; L ; AMENDEMENT ; DE ; MONSIEUR ; LAURENT
+================================================================================
+common_voice_fr_17848015, %WER 100.00 [ 4 / 4, 1 ins, 0 del, 3 sub ]
+MÂTIN ; ÇA ; SENT ; BON ; <eps>
+  S   ; =  ;  S   ;  S  ;   I  
+MATIN ; ÇA ;  S   ;  EN ;  NOM 
+================================================================================
+common_voice_fr_17357628, %WER 33.33 [ 2 / 6, 0 ins, 0 del, 2 sub ]
+JE ; SUIS ; SÛR ; QUE ;  J  ; AIME
+=  ;  =   ;  =  ;  S  ;  S  ;  =  
+JE ; SUIS ; SÛR ;  QU ; ILS ; AIME
+================================================================================
+common_voice_fr_19607595, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+LES ; DEUX ; LIMITES ; NE ; PEUVENT ; ÊTRE ; ATTEINTES
+ =  ;  =   ;    =    ; =  ;    =    ;  =   ;     =    
+LES ; DEUX ; LIMITES ; NE ; PEUVENT ; ÊTRE ; ATTEINTES
+================================================================================
+common_voice_fr_20059583, %WER 71.43 [ 5 / 7, 0 ins, 3 del, 2 sub ]
+ T  ;   ES  ; VRAIMENT ;   UN  ; GROS ;    CON    ; ENGUERRAND
+ S  ;   D   ;    =     ;   D   ;  =   ;     S     ;     D     
+DES ; <eps> ; VRAIMENT ; <eps> ; GROS ; CONVIRONS ;   <eps>   
+================================================================================
+common_voice_fr_17350581, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+JE ; SUIS ; TRÈS ; STRICT
+=  ;  =   ;  =   ;   =   
+JE ; SUIS ; TRÈS ; STRICT
+================================================================================
+common_voice_fr_18422408, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+ALLER ; À ; MADAGASCAR
+  =   ; = ;     =     
+ALLER ; À ; MADAGASCAR
+================================================================================
+common_voice_fr_17786212, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+BELLE ; ROSE ; LE ; CONDUISIT ; À ; SUZANNE
+  =   ;  =   ; =  ;     =     ; = ;    =   
+BELLE ; ROSE ; LE ; CONDUISIT ; À ; SUZANNE
+================================================================================
+common_voice_fr_22932350, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+ELLE ; MARCHE ; DANS ; L ; HERBE ; RASE
+ =   ;   =    ;  =   ; = ;   =   ;  S  
+ELLE ; MARCHE ; DANS ; L ; HERBE ; RAZE
+================================================================================
+common_voice_fr_18341199, %WER 100.00 [ 4 / 4, 1 ins, 0 del, 3 sub ]
+IL ; PARAISSAIT ;   M   ; ÉVITER ; <eps>
+=  ;     S      ;   S   ;   S    ;   I  
+IL ;   PARAÎT   ; ASSEZ ;  MAIS  ; EUSTÉ
+================================================================================
+common_voice_fr_19732271, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+SON ; CHEF ; LIEU ; EST ; LA ; VILLE ; DE ; GARZA
+ =  ;  =   ;  =   ;  =  ; =  ;   =   ; =  ;   =  
+SON ; CHEF ; LIEU ; EST ; LA ; VILLE ; DE ; GARZA
+================================================================================
+common_voice_fr_17301962, %WER 40.00 [ 2 / 5, 0 ins, 0 del, 2 sub ]
+VOUS ; AVEZ ; D ; EXCELLENTES ; LECTURES
+ =   ;  =   ; = ;      S      ;    S    
+VOUS ; AVEZ ; D ;  EXCELLENTE ; LECTURE 
+================================================================================
+common_voice_fr_21512901, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+IL ; Y ; A ; UNE ; AUTRE ; RAISON
+=  ; = ; = ;  =  ;   =   ;   =   
+IL ; Y ; A ; UNE ; AUTRE ; RAISON
+================================================================================
+common_voice_fr_17822732, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+TU ; AS ; RAISON ; DE ; RESTER ;  GARÇON
+=  ; =  ;   =    ; =  ;   =    ;    S   
+TU ; AS ; RAISON ; DE ; RESTER ; GARÇONS
+================================================================================
+common_voice_fr_17789379, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+EH ; BIEN ; LE ;   N    ; HUIT
+=  ;  =   ; =  ;   S    ;  =  
+EH ; BIEN ; LE ; NUMÉRO ; HUIT
+================================================================================
+common_voice_fr_21824403, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+CERTES ; IL ; VOUS ; AIME
+  =    ; =  ;  =   ;  =  
+CERTES ; IL ; VOUS ; AIME
+================================================================================
+common_voice_fr_18041214, %WER 28.57 [ 2 / 7, 0 ins, 0 del, 2 sub ]
+DELPHINE ; SONT ; DES ; HOMMES ; DE ; SIX ; COUDÉES
+   =     ;  =   ;  S  ;   =    ; =  ;  =  ;    S   
+DELPHINE ; SONT ; LES ; HOMMES ; DE ; SIX ;  COUDÉS
+================================================================================
+common_voice_fr_17353521, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+IL ; M ; AVAIT ; DIT ; CELA ; EN ; RIANT
+=  ; = ;   =   ;  =  ;  =   ; =  ;   =  
+IL ; M ; AVAIT ; DIT ; CELA ; EN ; RIANT
+================================================================================
+common_voice_fr_18619541, %WER 100.00 [ 3 / 3, 0 ins, 1 del, 2 sub ]
+ C  ;    EST    ; RIDICULE
+ S  ;     S     ;    D    
+CES ; RIDICULES ;  <eps>  
+================================================================================
+common_voice_fr_17767373, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+C ; EST ; CELUI ; CI ; LE ;  TIEN
+= ;  =  ;   =   ; =  ; =  ;   S  
+C ; EST ; CELUI ; CI ; LE ; TIENT
+================================================================================
+common_voice_fr_17507532, %WER 100.00 [ 3 / 3, 0 ins, 0 del, 3 sub ]
+   CE   ; SONT ; LESQUELLES
+   S    ;  S   ;     S     
+CESSANT ; REQU ;   ELLES   
+================================================================================
+common_voice_fr_17326124, %WER 0.00 [ 0 / 9, 0 ins, 0 del, 0 sub ]
+C ; EST ; POURTANT ; CE ; QUE ; VOUS ; FAITES ; EN ; PERMANENCE
+= ;  =  ;    =     ; =  ;  =  ;  =   ;   =    ; =  ;     =     
+C ; EST ; POURTANT ; CE ; QUE ; VOUS ; FAITES ; EN ; PERMANENCE
+================================================================================
+common_voice_fr_17302591, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+MAIS ; JE ; CITERAI ; UN ; SEUL ; EXEMPLE
+ =   ; =  ;    =    ; =  ;  =   ;    =   
+MAIS ; JE ; CITERAI ; UN ; SEUL ; EXEMPLE
+================================================================================
+common_voice_fr_17326245, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+RIEN ; QUE ; CELA
+ =   ;  =  ;  =  
+RIEN ; QUE ; CELA
+================================================================================
+common_voice_fr_17312903, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+IL ; EST ; PERDU ; LE ; GARÇON
+=  ;  =  ;   =   ; =  ;   =   
+IL ; EST ; PERDU ; LE ; GARÇON
+================================================================================
+common_voice_fr_20033124, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+C ; EST ; UNE ;  GROTTE ; PRIVÉE
+= ;  =  ;  =  ;    S    ;   =   
+C ; EST ; UNE ; BROADGE ; PRIVÉE
+================================================================================
+common_voice_fr_18622299, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+J ; AI ; ADORÉ ; CE ; FILM
+= ; =  ;   =   ; =  ;  =  
+J ; AI ; ADORÉ ; CE ; FILM
+================================================================================
+common_voice_fr_18149848, %WER 66.67 [ 2 / 3, 0 ins, 0 del, 2 sub ]
+DEMAIN ;  OU ;  HIER 
+  =    ;  S  ;   S   
+DEMAIN ; UNE ; GUERRE
+================================================================================
+common_voice_fr_20323255, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+IL ; Y ; A ; UNE ; ÉCOLE ; DE ; LANGUES
+=  ; = ; = ;  =  ;   =   ; =  ;    =   
+IL ; Y ; A ; UNE ; ÉCOLE ; DE ; LANGUES
+================================================================================
+common_voice_fr_17882092, %WER 50.00 [ 3 / 6, 0 ins, 1 del, 2 sub ]
+ELLE ; LUI ; DIT ;  TU  ; SERAS ; PENDU
+ =   ;  =  ;  =  ;  S   ;   S   ;   D  
+ELLE ; LUI ; DIT ; CERA ; PENSE ; <eps>
+================================================================================
+common_voice_fr_18517548, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+QUEL ; ÂGE ; AS ; TU
+ =   ;  =  ; =  ; = 
+QUEL ; ÂGE ; AS ; TU
+================================================================================
+common_voice_fr_18187775, %WER 58.33 [ 7 / 12, 0 ins, 4 del, 3 sub ]
+   EH   ;  BIEN ;   JE  ; VERRAI ; QU ; IL ; N ; Y ;   A   ; RIEN ; À ;  VOIR
+   S    ;   D   ;   D   ;   D    ; =  ; =  ; = ; = ;   D   ;  =   ; S ;   S  
+HÉBERGÉ ; <eps> ; <eps> ; <eps>  ; QU ; IL ; N ; Y ; <eps> ; RIEN ; D ; AVOIR
+================================================================================
+common_voice_fr_17488284, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+À ; ENCOURAGER ; LA ; CROISSANCE
+= ;     =      ; =  ;     =     
+À ; ENCOURAGER ; LA ; CROISSANCE
+================================================================================
+common_voice_fr_22720913, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+UNIVERSITÉ ; DE ; LAVAL
+    =      ; =  ;   =  
+UNIVERSITÉ ; DE ; LAVAL
+================================================================================
+common_voice_fr_18657202, %WER 28.57 [ 2 / 7, 0 ins, 1 del, 1 sub ]
+TOI ; AUSSI ; TU ; ES ; DE ; CEUX ;   LÀ 
+ =  ;   =   ; =  ; =  ; =  ;  S   ;   D  
+TOI ; AUSSI ; TU ; ES ; DE ; CELA ; <eps>
+================================================================================
+common_voice_fr_18922396, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+D ; AUTRES ; GRANDES ; CHAISES
+= ;   =    ;    =    ;    =   
+D ; AUTRES ; GRANDES ; CHAISES
+================================================================================
+common_voice_fr_17962625, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+RUE ; PELLETAN ; AU ; NUMÉRO ; SEPT
+ =  ;    =     ; =  ;   =    ;  =  
+RUE ; PELLETAN ; AU ; NUMÉRO ; SEPT
+================================================================================
+common_voice_fr_18888546, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+ON ; TE ; VERRA ; DEMAIN
+=  ; =  ;   =   ;   =   
+ON ; TE ; VERRA ; DEMAIN
+================================================================================
+common_voice_fr_19761812, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+IL ; FUT ; DOUBLE ; DISQUE ; D ; OR
+=  ;  =  ;   =    ;   =    ; = ; = 
+IL ; FUT ; DOUBLE ; DISQUE ; D ; OR
+================================================================================
+common_voice_fr_23586743, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+IL ; DESSINE ; AUSSI ; DES ; MEUBLES
+=  ;    =    ;   =   ;  =  ;    =   
+IL ; DESSINE ; AUSSI ; DES ; MEUBLES
+================================================================================
+common_voice_fr_18203095, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+ELLE ; REVIENT ; VERS ; ANTOINE
+ =   ;    =    ;  =   ;    =   
+ELLE ; REVIENT ; VERS ; ANTOINE
+================================================================================
+common_voice_fr_17432305, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+C ; EST ; LA ; FAUTE ; DE ; QUI
+= ;  =  ; =  ;   =   ; =  ;  = 
+C ; EST ; LA ; FAUTE ; DE ; QUI
+================================================================================
+common_voice_fr_18139409, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+ON ; L ; A ; FRAPPÉ
+=  ; = ; = ;   =   
+ON ; L ; A ; FRAPPÉ
+================================================================================
+common_voice_fr_18468827, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+C ; EST ; UNE ; EXPERTE
+= ;  =  ;  =  ;    =   
+C ; EST ; UNE ; EXPERTE
+================================================================================
+common_voice_fr_17436958, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+EN ; BREF ; JE ; DÉMISSIONNE
+=  ;  =   ; =  ;      =     
+EN ; BREF ; JE ; DÉMISSIONNE
+================================================================================
+common_voice_fr_17487669, %WER 44.44 [ 4 / 9, 1 ins, 0 del, 3 sub ]
+EST ; CE ; QUE ; ÇA ; LUI ; COÛTE ; <eps>  ; DE ; L ; ARGENT
+ =  ; =  ;  =  ; S  ;  S  ;   S   ;   I    ; =  ; = ;   =   
+EST ; CE ; QUE ; C  ; EST ;   L   ; ÉCOUTE ; DE ; L ; ARGENT
+================================================================================
+common_voice_fr_20231551, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+ÉGLISE ; SAINT ; CLÉMENT
+  =    ;   =   ;    =   
+ÉGLISE ; SAINT ; CLÉMENT
+================================================================================
+common_voice_fr_17318989, %WER 50.00 [ 4 / 8, 0 ins, 2 del, 2 sub ]
+OBJECTIVEMENT ; C ; EST ; UN ; TRAVAIL ; DE ;   LONGUE   ; HALEINE
+      D       ; = ;  =  ; S  ;    =    ; =  ;     S      ;    D   
+    <eps>     ; C ; EST ; LE ; TRAVAIL ; DE ; LANGUEDALE ;  <eps> 
+================================================================================
+common_voice_fr_17327265, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+ELLE ; EST ; AUJOURD ; HUI ; TOTALEMENT ; IGNORÉE
+ =   ;  =  ;    =    ;  =  ;     =      ;    =   
+ELLE ; EST ; AUJOURD ; HUI ; TOTALEMENT ; IGNORÉE
+================================================================================
+common_voice_fr_17930603, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+PAS ; MÊME ; LE ; CAPITAINE ; NEMO
+ =  ;  =   ; =  ;     =     ;  =  
+PAS ; MÊME ; LE ; CAPITAINE ; NEMO
+================================================================================
+common_voice_fr_17487667, %WER 42.86 [ 3 / 7, 0 ins, 0 del, 3 sub ]
+L ; ENFANT ; DONT ; LE ; BRAS ; EST ; CASSÉ 
+= ;   =    ;  S   ; =  ;  S   ;  =  ;   S   
+L ; ENFANT ; DANS ; LE ; BRUN ; EST ; CASSIS
+================================================================================
+common_voice_fr_20221455, %WER 33.33 [ 2 / 6, 0 ins, 0 del, 2 sub ]
+ON ; LES ; TROUVE ; DANS ; LES ; PLANTES
+=  ;  =  ;   S    ;  =   ;  =  ;    S   
+ON ; LES ; TOMBE  ; DANS ; LES ;  PLANS 
+================================================================================
+common_voice_fr_17394326, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+ELLE ; EST ; TROP ; BELLE
+ =   ;  =  ;  =   ;   =  
+ELLE ; EST ; TROP ; BELLE
+================================================================================
+common_voice_fr_20271705, %WER 28.57 [ 2 / 7, 0 ins, 0 del, 2 sub ]
+SANS ; COMPTER ; LA ; YOUGOSLAVIE ; ET ; L ; EGYPTE
+ =   ;    =    ; =  ;      =      ; S  ; = ;   S   
+SANS ; COMPTER ; LA ; YOUGOSLAVIE ; DE ; L ; ÉGYPTE
+================================================================================
+common_voice_fr_17658183, %WER 18.18 [ 2 / 11, 0 ins, 2 del, 0 sub ]
+N ; Y ; A ; QU ; À ;   NE  ;  PAS  ; SE ; METTRE ; EN ; SERVICE
+= ; = ; = ; =  ; = ;   D   ;   D   ; =  ;   =    ; =  ;    =   
+N ; Y ; A ; QU ; À ; <eps> ; <eps> ; SE ; METTRE ; EN ; SERVICE
+================================================================================
+common_voice_fr_17383856, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+C ; EST ; RESPECTUEUX ; DE ; L ; ENVIRONNEMENT
+= ;  =  ;      =      ; =  ; = ;       =      
+C ; EST ; RESPECTUEUX ; DE ; L ; ENVIRONNEMENT
+================================================================================
+common_voice_fr_18484633, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+JE ; SUIS ; SÛR ; QUE ; VOUS ; AIMÂTES
+=  ;  =   ;  =  ;  =  ;  =   ;    =   
+JE ; SUIS ; SÛR ; QUE ; VOUS ; AIMÂTES
+================================================================================
+common_voice_fr_20293980, %WER 60.00 [ 3 / 5, 0 ins, 1 del, 2 sub ]
+MAIS ; POUR ; SOULIGNER ;    TES    ; RATAGES
+ =   ;  =   ;     S     ;     S     ;    D   
+MAIS ; POUR ;  SOULIGNY ; THÉRATAGE ;  <eps> 
+================================================================================
+common_voice_fr_18141635, %WER 66.67 [ 2 / 3, 0 ins, 0 del, 2 sub ]
+JE ; ME ;  PERDS  
+=  ; S  ;    S    
+JE ; M  ; EMPEREUR
+================================================================================
+common_voice_fr_18023607, %WER 16.67 [ 1 / 6, 0 ins, 1 del, 0 sub ]
+COMBIEN ;  EST  ; CE ; QUE ; ÇA ; COÛTERA
+   =    ;   D   ; =  ;  =  ; =  ;    =   
+COMBIEN ; <eps> ; CE ; QUE ; ÇA ; COÛTERA
+================================================================================
+common_voice_fr_19802817, %WER 66.67 [ 4 / 6, 0 ins, 0 del, 4 sub ]
+ SEUL ; LE ; DOCTEUR ;  BREUER  ; LE ; SOUTIENT
+  S   ; S  ;    S    ;    S     ; =  ;    =    
+SEULS ; D  ;  AUTRES ; BROEEURS ; LE ; SOUTIENT
+================================================================================
+common_voice_fr_17960892, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+JE ; SUGGÈRE ; LE ; RETRAIT ; DE ; CES ; AMENDEMENTS
+=  ;    =    ; =  ;    =    ; =  ;  =  ;      =     
+JE ; SUGGÈRE ; LE ; RETRAIT ; DE ; CES ; AMENDEMENTS
+================================================================================
+common_voice_fr_17365209, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+LA ; MACHINE ; FONCTIONNE
+=  ;    =    ;     =     
+LA ; MACHINE ; FONCTIONNE
+================================================================================
+common_voice_fr_17333429, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+QUI ; VOUS ; A ; TÉLÉPHONÉ
+ =  ;  =   ; = ;     =    
+QUI ; VOUS ; A ; TÉLÉPHONÉ
+================================================================================
+common_voice_fr_18122641, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+ET ; PUIS ; IL ; ÉTAIT ; MINISTRE
+=  ;  =   ; =  ;   =   ;    =    
+ET ; PUIS ; IL ; ÉTAIT ; MINISTRE
+================================================================================
+common_voice_fr_17407709, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+VINGT ; TROIS ; TABLES
+  =   ;   =   ;   =   
+VINGT ; TROIS ; TABLES
+================================================================================
+common_voice_fr_23973605, %WER 60.00 [ 3 / 5, 0 ins, 0 del, 3 sub ]
+DE ;   JANE  ;  MOUTON ; ET ;   AL 
+=  ;    S    ;    S    ; =  ;   S  
+DE ; JEANNES ; MOUTONS ; ET ; ARLES
+================================================================================
+common_voice_fr_17726550, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+IL ; LA ; MET ; DANS ; SON ; GOUSSET
+=  ; =  ;  =  ;  =   ;  =  ;    =   
+IL ; LA ; MET ; DANS ; SON ; GOUSSET
+================================================================================
+common_voice_fr_17726553, %WER 33.33 [ 2 / 6, 0 ins, 0 del, 2 sub ]
+PLACE  ; DE ; L ; ALLÉE ; À ; SEIX
+  S    ; =  ; = ;   =   ; = ;  S  
+CLASSE ; DE ; L ; ALLÉE ; À ; SEXE
+================================================================================
+common_voice_fr_18050328, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+LA ; FÉDÉRATION ; DE ; RUSSIE
+=  ;     =      ; =  ;   =   
+LA ; FÉDÉRATION ; DE ; RUSSIE
+================================================================================
+common_voice_fr_18553004, %WER 40.00 [ 2 / 5, 0 ins, 1 del, 1 sub ]
+PEUT ; ÊTRE ; LE ;  SAIT  ;  ELLE
+ =   ;  =   ; =  ;   S    ;   D  
+PEUT ; ÊTRE ; LE ; CENTRE ; <eps>
+================================================================================
+common_voice_fr_23725135, %WER 14.29 [ 1 / 7, 0 ins, 0 del, 1 sub ]
+LA ; PRINCIPAUTÉ ; PREND ; LE ; NOM ; DE ; SARUHAN
+=  ;      =      ;   =   ; =  ;  =  ; =  ;    S   
+LA ; PRINCIPAUTÉ ; PREND ; LE ; NOM ; DE ; SARUHEN
+================================================================================
+common_voice_fr_19617618, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+L ; HOMME ; D ; AFFAIRE  ; RÉAGIT
+= ;   =   ; = ;    S     ;   =   
+L ; HOMME ; D ; AFFAIRES ; RÉAGIT
+================================================================================
+common_voice_fr_17955671, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+MAIS ; OÙ ; EST ; DONC ; LE ; PÈRE ; UBU
+ =   ; =  ;  =  ;  =   ; =  ;  =   ;  = 
+MAIS ; OÙ ; EST ; DONC ; LE ; PÈRE ; UBU
+================================================================================
+common_voice_fr_17332536, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+LES ; QUATRE ; GROS
+ =  ;   =    ;  =  
+LES ; QUATRE ; GROS
+================================================================================
+common_voice_fr_18524220, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+MAINTENANT ; TU ; PÊCHES
+    =      ; =  ;   =   
+MAINTENANT ; TU ; PÊCHES
+================================================================================
+common_voice_fr_18038813, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+LE ; RETAIL ; AU ; NUMÉRO ; QUATRE
+=  ;   =    ; =  ;   =    ;   =   
+LE ; RETAIL ; AU ; NUMÉRO ; QUATRE
+================================================================================
+common_voice_fr_19628439, %WER 16.67 [ 1 / 6, 0 ins, 0 del, 1 sub ]
+CERTAINS ; N ; ONT ; JAMAIS ; ÉTÉ ; RECONSTRUIT 
+   =     ; = ;  =  ;   =    ;  =  ;      S      
+CERTAINS ; N ; ONT ; JAMAIS ; ÉTÉ ; RECONSTRUITS
+================================================================================
+common_voice_fr_17386740, %WER 33.33 [ 2 / 6, 0 ins, 1 del, 1 sub ]
+PERSONNE ; D ; AUTRE ; NE ;  SAIT ;   ÇA 
+   =     ; = ;   =   ; =  ;   S   ;   D  
+PERSONNE ; D ; AUTRE ; NE ; CESSA ; <eps>
+================================================================================
+common_voice_fr_23586741, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+LE ; VILLAGE ; COMPTE ; UNE ; ÉGLISE
+=  ;    =    ;   =    ;  =  ;   S   
+LE ; VILLAGE ; COMPTE ; UNE ; GLISME
+================================================================================
+common_voice_fr_17402754, %WER 37.50 [ 3 / 8, 0 ins, 2 del, 1 sub ]
+VOUS ; AUREZ ;   DE  ;   L   ;  EAU  ; OU ; DU ; CAFÉ
+ =   ;   =   ;   S   ;   D   ;   D   ; =  ; =  ;  =  
+VOUS ; AUREZ ; DELOS ; <eps> ; <eps> ; OU ; DU ; CAFÉ
+================================================================================
+common_voice_fr_23955411, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+DANS ; CETTE ; SOMBRE ; IMMENSITÉ
+ =   ;   =   ;   =    ;     =    
+DANS ; CETTE ; SOMBRE ; IMMENSITÉ
+================================================================================
+common_voice_fr_20350210, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+AH ; NOUS ; SOMMES ; PROPRES
+=  ;  =   ;   =    ;    =   
+AH ; NOUS ; SOMMES ; PROPRES
+================================================================================
+common_voice_fr_19726319, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+LES ; VALVES ; SONT ; SUSPENDUES
+ =  ;   =    ;  =   ;     =     
+LES ; VALVES ; SONT ; SUSPENDUES
+================================================================================
+common_voice_fr_18005867, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+NOUS ; AVONS ; ÉTÉ ; AIMÉS
+ =   ;   =   ;  =  ;   =  
+NOUS ; AVONS ; ÉTÉ ; AIMÉS
+================================================================================
+common_voice_fr_19665795, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+C ; EST ; SON ; PREMIER ; ALBUM
+= ;  =  ;  =  ;    =    ;   =  
+C ; EST ; SON ; PREMIER ; ALBUM
+================================================================================
+common_voice_fr_17492094, %WER 12.50 [ 1 / 8, 0 ins, 0 del, 1 sub ]
+À ; LA ; MAISON ; IL ; Y ; A ; TROIS ; TÉLÉVISEURS
+= ; =  ;   =    ; =  ; = ; = ;   =   ;      S     
+À ; LA ; MAISON ; IL ; Y ; A ; TROIS ; TÉLÉMISEURS
+================================================================================
+common_voice_fr_18474832, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+SUR ; LE ; TREIZIÈME
+ =  ; =  ;     =    
+SUR ; LE ; TREIZIÈME
+================================================================================
+common_voice_fr_19939749, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+LA ; ZÉLÉE ; EST ; COULÉE
+=  ;   =   ;  =  ;   =   
+LA ; ZÉLÉE ; EST ; COULÉE
+================================================================================
+common_voice_fr_17331402, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+NOUS ; N ; AVONS ; PAS ; À ; ROUGIR
+ =   ; = ;   =   ;  =  ; = ;   =   
+NOUS ; N ; AVONS ; PAS ; À ; ROUGIR
+================================================================================
+common_voice_fr_18224804, %WER 42.86 [ 3 / 7, 0 ins, 2 del, 1 sub ]
+QUAND ; DONC ;    EN    ; VERRAI ;   JE  ; LA ; FIN
+  =   ;  =   ;    S     ;   D    ;   D   ; =  ;  = 
+QUAND ; DONC ; ENVIRÈGE ; <eps>  ; <eps> ; LA ; FIN
+================================================================================
+common_voice_fr_19628797, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+SA ; SAVEUR ; EST ; ÂCRE
+=  ;   =    ;  =  ;  =  
+SA ; SAVEUR ; EST ; ÂCRE
+================================================================================
+common_voice_fr_17513413, %WER 30.00 [ 3 / 10, 0 ins, 1 del, 2 sub ]
+ON ; COMPREND ; MIEUX ; POURQUOI ; CETTE ;  LOI  ; N ; EST ; PAS ; APPLIQUÉE
+=  ;    =     ;   =   ;    =     ;   S   ;   D   ; = ;  =  ;  =  ;     S    
+ON ; COMPREND ; MIEUX ; POURQUOI ;  CELA ; <eps> ; N ; EST ; PAS ;  APPLIQUÉ
+================================================================================
+common_voice_fr_17402107, %WER 100.00 [ 3 / 3, 0 ins, 0 del, 3 sub ]
+DEUX ; MAISONS ; BLANCHES
+ S   ;    S    ;    S    
+ DE  ;  MAISON ; BRANCHES
+================================================================================
+common_voice_fr_17405314, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+VOILÀ ; JUSTEMENT ; CE ; QUE ; NOUS ; VOULONS ; APPRENDRE
+  =   ;     =     ; =  ;  =  ;  =   ;    =    ;     =    
+VOILÀ ; JUSTEMENT ; CE ; QUE ; NOUS ; VOULONS ; APPRENDRE
+================================================================================
+common_voice_fr_19733550, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+ON ; A ; L ; HABITUDE
+=  ; = ; = ;    =    
+ON ; A ; L ; HABITUDE
+================================================================================
+common_voice_fr_19790398, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+VENGEONS ; NOUS ; DU ; BOUFFON
+   =     ;  =   ; =  ;    =   
+VENGEONS ; NOUS ; DU ; BOUFFON
+================================================================================
+common_voice_fr_19729631, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+IL ; ÉTAIT ; MAL ; À ; L ; AISE
+=  ;   =   ;  =  ; = ; = ;  =  
+IL ; ÉTAIT ; MAL ; À ; L ; AISE
+================================================================================
+common_voice_fr_17319948, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+VOICI ; POUR ; LES ; DÉPENSES
+  =   ;  =   ;  =  ;    =    
+VOICI ; POUR ; LES ; DÉPENSES
+================================================================================
+common_voice_fr_17362527, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+JE ; PRENDRAI ; LA ; MÊME ; CHOSE
+=  ;    =     ; =  ;  =   ;   =  
+JE ; PRENDRAI ; LA ; MÊME ; CHOSE
+================================================================================
+common_voice_fr_17320942, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+J ; AIMAIS ; MIEUX ; LES ; CHEVAUX
+= ;   =    ;   S   ;  =  ;    =   
+J ; AIMAIS ;  BIEN ; LES ; CHEVAUX
+================================================================================
+common_voice_fr_23955454, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+NOUS ; MARCHERONS ; DANS ; L ; HERBE ; À ; PAS ; SILENCIEUX
+ =   ;     =      ;  =   ; = ;   =   ; = ;  =  ;     =     
+NOUS ; MARCHERONS ; DANS ; L ; HERBE ; À ; PAS ; SILENCIEUX
+================================================================================
+common_voice_fr_17826253, %WER 100.00 [ 5 / 5, 0 ins, 1 del, 4 sub ]
+ EH ;  BIEN ;   EST    ;    IL    ; RÉVEILLÉ
+ S  ;   S   ;    S     ;    S     ;    D    
+LES ; BIENS ; FÊTIRENT ; ÉVEILLÉS ;  <eps>  
+================================================================================
+common_voice_fr_19544698, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+L ; AFFRONTEMENT ; ÉTAIT ; INÉVITABLE
+= ;      =       ;   =   ;     =     
+L ; AFFRONTEMENT ; ÉTAIT ; INÉVITABLE
+================================================================================
+common_voice_fr_17340340, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+RIEN ; D ; AUTRE
+ =   ; = ;   =  
+RIEN ; D ; AUTRE
+================================================================================
+common_voice_fr_17767230, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+L ; ADRESSE ; CINQ ; RUE ; DESROUSSEAUX
+= ;    =    ;  =   ;  =  ;      S      
+L ; ADRESSE ; CINQ ; RUE ; DESROUSSOUS 
+================================================================================
+common_voice_fr_17485007, %WER 12.50 [ 1 / 8, 0 ins, 0 del, 1 sub ]
+DONNEZ ; LUI ; DES ; VÊTEMENTS ; QUI ; NE ; GRATTENT ; PAS
+  =    ;  =  ;  =  ;     =     ;  =  ; =  ;    S     ;  = 
+DONNEZ ; LUI ; DES ; VÊTEMENTS ; QUI ; NE ;  GRATTE  ; PAS
+================================================================================
+common_voice_fr_17897351, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+YVONNE ; QUI ; VEUT ; ÉCOUTER
+  =    ;  =  ;  =   ;    =   
+YVONNE ; QUI ; VEUT ; ÉCOUTER
+================================================================================
+common_voice_fr_17499430, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+IL ; TRAVAILLE ; MAL
+=  ;     =     ;  = 
+IL ; TRAVAILLE ; MAL
+================================================================================
+common_voice_fr_17325994, %WER 50.00 [ 3 / 6, 0 ins, 1 del, 2 sub ]
+ÇA ; AUGMENTE ; D ; HEURE  ;    EN    ; HEURE
+=  ;    =     ; = ;   S    ;    S     ;   D  
+ÇA ; AUGMENTE ; D ; HEURES ; HONNEURS ; <eps>
+================================================================================
+common_voice_fr_18413635, %WER 66.67 [ 2 / 3, 0 ins, 0 del, 2 sub ]
+DEMAIN ; ELLES ; PÊCHERONT
+  =    ;   S   ;     S    
+DEMAIN ;  ELLE ;  PÊCHERA 
+================================================================================
+common_voice_fr_17931133, %WER 20.00 [ 1 / 5, 0 ins, 0 del, 1 sub ]
+TA ; FILLE ; EST ; ELLE ; PRÉVENUE
+S  ;   =   ;  =  ;  =   ;    =    
+SA ; FILLE ; EST ; ELLE ; PRÉVENUE
+================================================================================
+common_voice_fr_18065029, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+VOUS ; NE ; PRENEZ ; RIEN
+ =   ; =  ;   =    ;  =  
+VOUS ; NE ; PRENEZ ; RIEN
+================================================================================
+common_voice_fr_17795698, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+APERCEVANT ; EDGARD ; AU ; FOND
+    =      ;   =    ; =  ;  =  
+APERCEVANT ; EDGARD ; AU ; FOND
+================================================================================
+common_voice_fr_17724366, %WER 80.00 [ 4 / 5, 0 ins, 0 del, 4 sub ]
+ES ; TU ;  MALADE ; DEMANDÉ ;     JE   
+S  ; =  ;    S    ;    S    ;     S    
+ET ; TU ; MALADES ;    DE   ; MAUVAISGE
+================================================================================
+common_voice_fr_17410057, %WER 66.67 [ 2 / 3, 0 ins, 0 del, 2 sub ]
+FAITES ; LE ;   TOUR 
+  S    ; =  ;    S   
+PASSE  ; LE ; TOURNOI
+================================================================================
+common_voice_fr_17382028, %WER 33.33 [ 1 / 3, 0 ins, 0 del, 1 sub ]
+UN ; BILLET ; ALLER
+=  ;   =    ;   S  
+UN ; BILLET ; ALLEZ
+================================================================================
+common_voice_fr_18231768, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+LE ; COMMISSAIRE ; TRÈS ; BIEN
+=  ;      =      ;  =   ;  =  
+LE ; COMMISSAIRE ; TRÈS ; BIEN
+================================================================================
+common_voice_fr_19991986, %WER 0.00 [ 0 / 5, 0 ins, 0 del, 0 sub ]
+PERSONNE ; N ; Y ; COMPREND ; RIEN
+   =     ; = ; = ;    =     ;  =  
+PERSONNE ; N ; Y ; COMPREND ; RIEN
+================================================================================
+common_voice_fr_17383762, %WER 28.57 [ 2 / 7, 0 ins, 1 del, 1 sub ]
+ PEUT ;  ÊTRE ; VIENDRA ; T ; ELLE ; QUI ; SAIT
+  S   ;   D   ;    =    ; = ;  =   ;  =  ;  =  
+HÔTEL ; <eps> ; VIENDRA ; T ; ELLE ; QUI ; SAIT
+================================================================================
+common_voice_fr_19631434, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+IL ; EST ; NÉ ; DANS ; LES ; HAUTES ; ALPES
+=  ;  =  ; =  ;  =   ;  =  ;   =    ;   =  
+IL ; EST ; NÉ ; DANS ; LES ; HAUTES ; ALPES
+================================================================================
+common_voice_fr_18701652, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+IL ; EST ; ENTERRÉ
+=  ;  =  ;    =   
+IL ; EST ; ENTERRÉ
+================================================================================
+common_voice_fr_17432302, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+TU ; ES ; SÛR ; QU ; ON ; AIME
+=  ; =  ;  =  ; =  ; =  ;  =  
+TU ; ES ; SÛR ; QU ; ON ; AIME
+================================================================================
+common_voice_fr_19707086, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+LA ; POURSUITE ; CONTINUE
+=  ;     =     ;    =    
+LA ; POURSUITE ; CONTINUE
+================================================================================
+common_voice_fr_21819091, %WER 14.29 [ 1 / 7, 0 ins, 1 del, 0 sub ]
+ON ; PEUT ; AUSSI ;   Y   ; FAIRE ; DU ; PARAPENTE
+=  ;  =   ;   =   ;   D   ;   =   ; =  ;     =    
+ON ; PEUT ; AUSSI ; <eps> ; FAIRE ; DU ; PARAPENTE
+================================================================================
+common_voice_fr_18477197, %WER 28.57 [ 2 / 7, 1 ins, 0 del, 1 sub ]
+IL ; Y ; A ; DES ; MALADES  ; <eps> ; PARMI ; EUX
+=  ; = ; = ;  =  ;    S     ;   I   ;   =   ;  = 
+IL ; Y ; A ; DES ; MALHEURS ;   À   ; PARMI ; EUX
+================================================================================
+common_voice_fr_19577516, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+QU ; ELLE ; GARDA ; EN ; TRAVERS ; DE ; LA ; GORGE
+=  ;  =   ;   =   ; =  ;    =    ; =  ; =  ;   =  
+QU ; ELLE ; GARDA ; EN ; TRAVERS ; DE ; LA ; GORGE
+================================================================================
+common_voice_fr_19604121, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+IL ; POURSUIT ; ENSUITE ; SES ; ÉTUDES ; DE ; DROIT
+=  ;    =     ;    =    ;  =  ;   =    ; =  ;   =  
+IL ; POURSUIT ; ENSUITE ; SES ; ÉTUDES ; DE ; DROIT
+================================================================================
+common_voice_fr_18402221, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+DEUX ; TABLES ; NOIRES
+ =   ;   =    ;   =   
+DEUX ; TABLES ; NOIRES
+================================================================================
+common_voice_fr_18005689, %WER 10.00 [ 1 / 10, 0 ins, 0 del, 1 sub ]
+JE ; VIENS ; DE ; LA ; METTRE ; À ; LA ; PORTE ; VOTRE ; JEANNETTE
+=  ;   =   ; =  ; =  ;   =    ; = ; =  ;   =   ;   =   ;     S    
+JE ; VIENS ; DE ; LA ; METTRE ; À ; LA ; PORTE ; VOTRE ;  GENNETTE
+================================================================================
+common_voice_fr_18800451, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+IL ; FAUT ; QUE ; JE ; TRAVAILLE ; PLUS
+=  ;  =   ;  =  ; =  ;     =     ;  =  
+IL ; FAUT ; QUE ; JE ; TRAVAILLE ; PLUS
+================================================================================
+common_voice_fr_18432806, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+LA ; CONVERSATION ; S ; ÉGARA
+=  ;      =       ; = ;   =  
+LA ; CONVERSATION ; S ; ÉGARA
+================================================================================
+common_voice_fr_19627777, %WER 75.00 [ 3 / 4, 2 ins, 0 del, 1 sub ]
+ELLE ; VIT ; À ; FELDAFING ; <eps> ;  <eps> 
+ =   ;  =  ; = ;     S     ;   I   ;    I   
+ELLE ; VIT ; À ;   CELLE   ;   D   ; AFFIGNE
+================================================================================
+common_voice_fr_18071351, %WER 0.00 [ 0 / 6, 0 ins, 0 del, 0 sub ]
+C ; EST ; MON ; CAS ; CE ; SOIR
+= ;  =  ;  =  ;  =  ; =  ;  =  
+C ; EST ; MON ; CAS ; CE ; SOIR
+================================================================================
+common_voice_fr_17405315, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+QU ; EST ; CE ; QUE ; VOUS ; FAITES ; DIMANCHE
+=  ;  =  ; =  ;  =  ;  =   ;   =    ;    =    
+QU ; EST ; CE ; QUE ; VOUS ; FAITES ; DIMANCHE
+================================================================================
+common_voice_fr_17767195, %WER 40.00 [ 2 / 5, 0 ins, 1 del, 1 sub ]
+RUE ;      D       ; ELBINGERODE ; À ; BOULIGNY
+ =  ;      S       ;      D      ; = ;    =    
+RUE ; DELBENJERODE ;    <eps>    ; À ; BOULIGNY
+================================================================================
+common_voice_fr_18212936, %WER 0.00 [ 0 / 4, 0 ins, 0 del, 0 sub ]
+IL ; OBJECTE ; IL ; RÉSISTE
+=  ;    =    ; =  ;    =   
+IL ; OBJECTE ; IL ; RÉSISTE
+================================================================================
+common_voice_fr_17333455, %WER 40.00 [ 2 / 5, 0 ins, 0 del, 2 sub ]
+LE ; DOIGT ; MARQUE ; LA ; DIRECTION
+S  ;   S   ;   =    ; =  ;     =    
+JE ;  DOIS ; MARQUE ; LA ; DIRECTION
+================================================================================
+common_voice_fr_17379269, %WER 7.14 [ 1 / 14, 0 ins, 0 del, 1 sub ]
+CELA ; N ; A ; PAS ; DE ; FIN ; SI ; L ; ON ; DOIT ; INVITER ; TOUT ; LE ; MONDE
+ =   ; = ; = ;  =  ; =  ;  =  ; =  ; = ; =  ;  =   ;    S    ;  =   ; =  ;   =  
+CELA ; N ; A ; PAS ; DE ; FIN ; SI ; L ; ON ; DOIT ;  ÉVITER ; TOUT ; LE ; MONDE
+================================================================================
+common_voice_fr_17452109, %WER 0.00 [ 0 / 3, 0 ins, 0 del, 0 sub ]
+LA ; TOURTERELLE ; MÂLE
+=  ;      =      ;  =  
+LA ; TOURTERELLE ; MÂLE
