@@ -9,8 +9,9 @@ POS analysis : https://www.overleaf.com/read/ycwzvryfqxft
 Meetings : https://www.overleaf.com/read/sgcffskxcscw  
 Length of words : https://www.overleaf.com/read/ttpdkwgbpymp  
 Embedding Error Rate : https://www.overleaf.com/read/stmqvyrkhwdc  
-Expes details : https://www.overleaf.com/read/dwwhjgwmgjhg  
 Bibliography : https://www.overleaf.com/read/phhbhzmtxktw  
+
+Papier : https://www.overleaf.com/read/dwwhjgwmgjhg  
 
 
 ## PoemeProfond
