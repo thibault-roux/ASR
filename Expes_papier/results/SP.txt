@@ -1,0 +1,6 @@
+POS Error Rate: 0.17552585451358452
+La POS confusion matrix de SP a été enregistré dans /results.
+Le CER moyen par POS n'a pas été calculé.
+Les n-gram de POS les plus sujets aux erreurs n'ont pas été calculé.
+Phoneme Error Rate : 7.767219148652856%
+La phoneme confusion matrix de SP a été enregistré dans /results.
