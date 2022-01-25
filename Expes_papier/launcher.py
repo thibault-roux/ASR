@@ -10,6 +10,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from statistics import mean
 from phoneme import phoneme_analysis
 from phoneme import plotConfusion
+from Levenshtein import distance as lv
 
 import argparse
 parser = argparse.ArgumentParser(description="Launch a serie of experiment")
@@ -39,6 +40,50 @@ def retirerEPS(ligne):
 
 fresults = open("results/" + args.id + ".txt", "w", encoding="utf8")
 
+
+
+"""-------------Choix automatique des POS---------------"""
+temp_pos = set()
+with open("data/" + args.id + "4.txt", "r", encoding="utf8") as file:
+    for ligne in file:
+        ligne = ligne.split("\t")
+        for pos in ligne[1].split(" "):
+            temp_pos.add(pos)
+POS_possible1 = ['PPER1S', 'VERB', 'COSUB', 'PUNCT', 'PREP', 'PDEMMS', 'COCO', 'DET', 'NMP', 'ADJMP', 'PREL', 'PREFP', 'AUX', 'ADV', 'VPPMP', 'DINTMS', 'ADJMS', 'NMS', 'NFS', 'YPFOR', 'PINDMS', 'NOUN', 'PROPN', 'DETMS', 'PPER3MS', 'VPPMS', 'DETFS', 'ADJFS', 'ADJFP', 'NFP', 'VPPFS', 'CHIF', 'XFAMIL', 'PPER3MP', 'PPOBJMS', 'PREF', 'PPOBJMP', 'SYM', 'DINTFS', 'PDEMFS', 'PPER3FS', 'VPPFP', 'PRON', 'PPOBJFS', 'PART', 'PPER3FP', 'MOTINC', 'PDEMMP', 'INTJ', 'PREFS', 'ADJ', 'PINDMP', 'PINDFS', 'NUM', 'PPER2S', 'PPOBJFP', 'PDEMFP', 'X', 'PRELMS', 'PINDFP', "<eps>"]
+POS_possible1.sort()
+POS_possible2 = ["<eps>", "ADJ","ADP","ADV","AUX","CCONJ","DET","INTJ","NOUN","NUM","PART","PRON","PROPN","PUNCT","SCONJ","SYM","VERB","X"] #à adapter selon besoin
+POS_possible = []
+for e in temp_pos:
+    POS_possible.append(e)
+POS_possible.sort()
+if POS_possible != POS_possible1 and POS_possible != POS_possible2:
+    print("Les POS détectés automatiquement ne sont pas habituelles.")
+    print(POS_possible)
+    answer = input("Continuer quand même ? (o/n) : ")
+    if answer == "n":
+        print("Le programme s'est terminé sous demande.")
+        exit(0)
+    elif answer != "o":
+        print("Réponse non attendue. Fin du programme.")
+        exit(0)
+
+
+"""---------------exp0-Word_error_rate---------------"""
+with open("data/" + args.id + "2.txt", "r", encoding="utf8") as file:
+    total = 0
+    errors = 0
+    for ligne in file:
+        for err in ligne.split("\t")[2].split(" "): #pour chaque erreur (S I =)
+            if err != "=":
+                errors += 1
+            if err != "I": #Les insertions ne sont pas comptabilisés dans le total des mots
+                total += 1
+fresults.write("Word Error Rate: ")
+a = "{:.2f}".format(float(errors/total)*100)
+fresults.write(a)
+fresults.write("\n")
+
+
 """---------------exp1-POS_error_rate---------------"""
 #4 sans eps
 wers = []
@@ -56,13 +101,13 @@ fresults.write("POS Error Rate: " + str(sum(wers)/len(wers)) + "\n")
 """---------------exp2-POS_confusion_matrix---------------"""
 #4 avec eps
 POS_matrix = pickle.load(open("pickle/POS_matrix" + args.id + ".pickle", "rb"))
-POS_possible = ["ADJ","ADP","ADV","AUX","CCONJ","DET","INTJ","NOUN","NUM","PART","PRON","PROPN","PUNCT","SCONJ","SYM","VERB","X", "<eps>"] #à adapter selon besoin
 matrix = []
 i = 0
 for k, v in POS_matrix.items():
     row = []
     if k != POS_possible[i]:
-        fresult.write("ERREUR lors de l'expérience 2.\n")
+        fresults.write("ERREUR lors de l'expérience 2.\n")
+        break
     for j in range(len(POS_possible)):
         row.append(v.count(POS_possible[j]))
     matrix.append(row)
@@ -90,12 +135,82 @@ fresults.write("La POS confusion matrix de " + args.id + " a été enregistré d
 
 """---------------exp3-CER_POS---------------"""
 #5 avec eps
-fresults.write("Le CER moyen par POS n'a pas été calculé.\n")
+#ce que je vais stocker, c'est un dictionnaire de POS qui contient une liste de liste de deux (cer et taille du mot)
+#ça permettra de faire des analyses de la répartition des tailles des POS
+CER_POS = dict()
+for e in POS_possible:
+    if e != "<eps>":
+        CER_POS[e] = []
+with open("data/SP5.txt", "r", encoding="utf8") as file:
+    for ligne in file:
+        ligne = ligne.split("\t")
+        pos = ligne[1].split(" ")
+        ref = ligne[2].split(" ")
+        hyp = ligne[3].split(" ")
+        if len(ref) == len(hyp) and len(ref) == len(pos):
+            for i in range(len(ref)):
+                if ref[i] != "<eps>" and hyp[i] != "<eps>":
+                    distance = lv(ref[i], hyp[i]) #distance de Levenshtein
+                    CER_POS[pos[i]].append([distance, len(ref[i])])
+txt = "CER moyen par POS :"
+for k, v in CER_POS.items():
+    if v != []:
+        cers = 0
+        total = 0
+        for tuple in v:
+            cers += tuple[0]
+            total += tuple[1]
+        txt += k + ": " + str(cers/total*100) + ", "
+fresults.write(txt[:-2])
+
+
+"""
+Questions soulevées par cette expérience :
+- Comment doit-on traiter les <eps> ?
+    -> J'ai décidé de les ignorer. On ne regarde que les substitutions.
+- Il y a 88 phrases qui n'ont pas la bonne longueur.
+    -> Je les ignore vu qu'elles ne représentent quasiment rien par rapport à 106863 phrases.
+- Ce CER moyen par POS n'est pas la moyenne des CER pour chaque mot mais la somme des distances divisé par la somme des tailles de mots.
+"""
+
 
 
 """---------------exp4-Ngram_POS---------------"""
 #6 sans eps
 fresults.write("Les n-gram de POS les plus sujets aux erreurs n'ont pas été calculé.\n")
+def ngram_pos(n):
+    ngram = dict()
+    with open("data/" + id + "6.txt", "r", encoding="utf8") as file:
+        for ligne in file:
+            ligne = ligne.split("\t")
+            pos = ligne[1].split(" ")
+            err = ligne[2].split(" ")
+            if len(pos) == len(err):
+                if len(pos) >= n:
+                    i = 0
+                    while (i + n) < len(pos):
+                        j = 0
+                        gram = []
+                        errs = []
+                        while j < n:
+                            gram.append(pos[i+j])
+                            errs.append(err[i+j])
+                            j += 1
+                        i += 1
+#ngram_pos(3)
+
+"""
+Questions soulevées par cette expérience :
+- Comment doit-on traiter les <eps> ?
+    -> Quand il y a une insertion (i.e un <eps> dans la réf)
+- Est-ce que je stocke le nombre d'erreur ? Ou directement les types d'erreurs ?
+    -> je peux avoir APD DET NOUN : [[S,S,=], [D,=,=], [=,=,=]]
+    -> ou ADP DET NOUN : {S: 10, D:2, I:3, =:40}
+    -> ou ADP DET NOUN : [23, 130] #avec première valeur == erreur et deuxième valeur == total
+- Il faudrait que je sorte des exemples de ces suites de POS (avec leur mot associé)
+- Le ngram impose qu'on ignore les utterances plus courtes que n
+    -> pour n = 3, il y a 222 utterances éliminés pour cette raison
+"""
 
 
 """---------------exp5-EER----------------"""
@@ -130,13 +245,17 @@ fresults.write("Average Similarity : " + str(mean(sims)) + " (Stored in sims" + 
 
 """---------------exp7-Phoneme_Error_Rate---------------"""
 #7 sans eps
+"""
 per = phoneme_analysis(args.id)
 fresults.write("Phoneme Error Rate : " + str(per) + "%\n")
+"""
 
 """---------------exp8-Phoneme_confusion_matrix---------------"""
 #7 avec eps
+"""
 plotConfusion(args.id)
 fresults.write("La phoneme confusion matrix de " + args.id + " a été enregistré dans /results.\n")
+"""
 
 """---------------exp9-regression_nombre_erreur---------------"""
 #2 sans eps
