@@ -12,17 +12,17 @@ def similarite(syn1, syn2):
 
 def eer(id):
     #embeddings:
-    #namefile = "../../../Stage/embeddings_fast_text/cc.fr.300.vec"
-    namefile = "../../../Stage/embeddings_fast_text/temp.vec"
+    namefile = "../../../Stage/embeddings_fast_text/cc.fr.300.vec"
+    #namefile = "../../../Stage/embeddings_fast_text/temp.vec"
 
     ref = []
     hyp = []
     refhyp = set()
-    with open("data/" + id + "1.txt", "r", encoding="utf8") as file:
+    with open("data/" + id + "/" + id + "1.txt") as file:
         for ligne in file:
             ligne = ligne.split("\t")
-            r = ligne[0].lower()
-            h = ligne[1].lower()
+            r = ligne[1].lower()
+            h = ligne[2].lower()
             ref.append(r)
             hyp.append(h)
 
@@ -50,12 +50,19 @@ def eer(id):
     #Calcul du Embedding Error Rate
     print("Calcul du Embedding Error Rate...")
     errors = []
+    d = 0
+    c = 0
     for i in range(len(ref)):
         """if i %100 == 0:
             print(i)"""
         error = []
         r = ref[i].split(" ")
         h = hyp[i].split(" ")
+        if len(r) != len(h):
+            d += 1
+            continue
+        else:
+            c += 1
         for j in range(len(r)):
             if r[j] != h[j]:
                 if r[j] == "<eps>" or h[j] == "<eps>":
@@ -72,7 +79,7 @@ def eer(id):
                 error.append(0)
         errors.append(error)
 
-    pickle.dump(errors, open("pickle/errors" + id + ".pickle", "wb"))
+    pickle.dump(errors, open("pickle/EER_" + id + ".pickle", "wb"))
 
     s = 0
     length = 0
@@ -80,4 +87,6 @@ def eer(id):
         s += sum(errors[i])
         length += len(errors[i])
 
+    print(c)
+    print(d)
     return s/length
