@@ -1,4 +1,4 @@
-#from POS_tag import tag
+from POS_tag import tag
 
 import argparse
 parser = argparse.ArgumentParser(description="Create dataset")
@@ -46,7 +46,7 @@ with open(args.namef, "r", encoding="utf8") as basefile:
         line = clean(lines[i])
         X += line + "\t_\n"
         i += 2
-with open("data/" + args.id + "1.txt", "w", encoding="utf8") as file:
+with open("data/" + args.id + "/" + args.id + "1.txt", "w", encoding="utf8") as file:
     file.write(X)
 
 
@@ -66,13 +66,13 @@ with open(args.namef, "r", encoding="utf8") as basefile:
         line = clean(lines[i])
         X += line + "\t_\n"
         i += 3
-with open("data/" + args.id + "2.txt", "w", encoding="utf8") as file:
+with open("data/" + args.id + "/" + args.id + "2.txt", "w", encoding="utf8") as file:
     file.write(X)
 
 
 """---------------SP3/KD3---------------"""
 prin("Creation of " + args.id + "3...")
-f = open("data/" + args.id + "2.txt", "r", encoding="utf8")
+f = open("data/" + args.id + "/" + args.id + "2.txt", "r", encoding="utf8")
 txt = ""
 nbrErreur = 0
 nbrLine = 0
@@ -87,19 +87,19 @@ for ligne in f:
     if Erreur != 0:
         nbrErreur += 1
     txt += str(nbrLine) + "\t" + ligne[1] + "\t" + str(Erreur) + "\t_\n"
-with open("data/" + args.id + "3.txt", "w", encoding="utf8") as file:
+with open("data/" + args.id + "/" + args.id + "3.txt", "w", encoding="utf8") as file:
     file.write(txt)
 
 
 """---------------SP4/KD4---------------"""
-#prin("Creation of " + args.id + "4...")
-#tag(args.id)
+prin("Creation of " + args.id + "4...")
+tag(args.id)
 
 
 """---------------SP5/KD5---------------"""
 prin("Creation of " + args.id + "5...")
-fpos = open("data/" + args.id + "4.txt", "r", encoding="utf8")
-fbase= open("data/" + args.id + "1.txt", "r", encoding="utf8")
+fpos = open("data/" + args.id + "/" + args.id + "4.txt", "r", encoding="utf8")
+fbase= open("data/" + args.id + "/" + args.id + "1.txt", "r", encoding="utf8")
 rpos = fpos.readlines()
 rbase= fbase.readlines()
 txt = ""
@@ -117,15 +117,15 @@ while i < len(rpos) or j < len(rbase):
     elif j_virtual < i_virtual:
         j += 1
 
-with open("data/" + args.id + "5.txt", "w", encoding="utf8") as file:
+with open("data/" + args.id + "/" + args.id + "5.txt", "w", encoding="utf8") as file:
     file.write(txt)
 
 
 
 """---------------SP6/KD6---------------"""
 prin("Creation of " + args.id + "6...")
-fpos = open("data/" + args.id + "4.txt", "r", encoding="utf8")
-ferr = open("data/" + args.id + "2.txt", "r", encoding="utf8")
+fpos = open("data/" + args.id + "/" + args.id + "4.txt", "r", encoding="utf8")
+ferr = open("data/" + args.id + "/" + args.id + "2.txt", "r", encoding="utf8")
 rpos = fpos.readlines()
 rerr = ferr.readlines()
 txt = ""
@@ -143,7 +143,7 @@ while i < len(rpos) or j < len(rerr):
     elif j_virtual < i_virtual:
         j += 1
 
-with open("data/" + args.id + "6.txt", "w", encoding="utf8") as file:
+with open("data/" + args.id + "/" + args.id + "6.txt", "w", encoding="utf8") as file:
     file.write(txt)
 
 
