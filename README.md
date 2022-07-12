@@ -11,7 +11,6 @@ Length of words : https://www.overleaf.com/read/ttpdkwgbpymp
 Embedding Error Rate : https://www.overleaf.com/read/stmqvyrkhwdc  
 Bibliography : https://www.overleaf.com/read/phhbhzmtxktw  
 
-Papier : https://www.overleaf.com/read/dwwhjgwmgjhg  
 
 
 ## PoemeProfond
